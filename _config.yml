@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziqian Luo"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ziqian Luo"
 description              : &description "Language Technologies Institute , Carnegie Mellon University"
