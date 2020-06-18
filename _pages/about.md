@@ -1,12 +1,78 @@
 ---
 permalink: /
-title: "Currently Under Updating"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Welcome :-D
+
+I am a master student in the Master of Science in Intelligent Information Systems (MIIS) program, at Language Technologies Institute (LTI), Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for jobs related to Software Engineering or Machine Learning.
+
+# Education
+
+* B.S. in Telecommunications Engineering, Beijing University of Posts and Telecommunications, 2019
+* M.S. in Intelligent Information System, Carnegie Mellon University, 2020 (expected)
+
+# Work Experience
+
+* ### Global Energy Interconnection Research Institute North America
+* Software Engineer Intern
+* San Jose, 2020.5-2020.8
+  * Currently responsible for data flow control in Deep Reinforcement Learning for Power Control in Grid Mind.
+
+* ### Tencent
+* Machine Learning Engineer Intern
+* Beijing, 2019.4-2019.7
+  * Responsible for implementing Learn to Rank models and compare baseline results on MSLR-WEB dataset.
+  * Used Lasso on logistic regression to select significant features among 136 features on above dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
+
+
+* ### Oracle
+* Software Engineer Intern
+* Beijing, 2018.9-2019.2
+  * Responsible for designing automation testing methods in API and UI actions for Public Sector Cloud project.
+  * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal.
+  * Designed utility methods using Java regular expressions to capture warning prompts keywords thrown in the UI testing so that corresponding methods can be called to fix that error in different parts of the system.
+  * Designed utility methods to update changing fields in different versions of json files to support API testing.
+
+
+# Project Experience
+
+* ### Question Answering in Math World Problems on MathQA dataset
+* Language Technologies Institute, Carnegie Mellon University, 2020.1-2020.5
+  * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of 54.6% for an ensemble model.
+  
+* ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+* Department of Computer Science of Technology, Tsinghua University, 2017.10-2019.3
+  * Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis that outperforms state of art results by 7% on MOSI dataset. 
+  
+
+# Publications
+
+* **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third AAAI, Honolulu, Jan. 2019.
+* **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of IJCNN’19, Budapest, Jul. 2019.
+
+  
+
+# Skills
+
+* Java, Python, C, Pytorch, Tensorflow, Keras, Matlab
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 
