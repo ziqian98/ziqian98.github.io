@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: archive
 title: "About Me"
 excerpt: "About me"
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome :-D
 
-I am a master student in the Master of Science in Intelligent Information Systems (MIIS) program, at Language Technologies Institute (LTI), Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for jobs related to Software Engineering or Machine Learning.
+I am a master student in the Master of Science in Intelligent Information Systems (MIIS), Language Technologies Institute, Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for jobs related to Software Engineering or Machine Learning.
 
 # Education
 
@@ -43,11 +43,11 @@ I am a master student in the Master of Science in Intelligent Information System
 
 * ### Question Answering in Math World Problems on MathQA dataset
 * Language Technologies Institute, Carnegie Mellon University, 2020.1-2020.5
-  * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of 54.6% for an ensemble model.
+  * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of **54.6%** for an ensemble model.
   
 * ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 * Department of Computer Science of Technology, Tsinghua University, 2017.10-2019.3
-  * Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis that outperforms state of art results by 7% on MOSI dataset. 
+  * Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis that outperforms state of art results by **7%** on MOSI dataset. 
   
 
 # Publications
