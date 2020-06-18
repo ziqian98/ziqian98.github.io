@@ -10,29 +10,29 @@ redirect_from:
 ---
 Welcome :-D
 
-I am a master student in the Master of Science in Intelligent Information Systems (MIIS), Language Technologies Institute, Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for jobs related to Software Engineering or Machine Learning.
+I am currently a second year master student in Intelligent Information Systems (MIIS), Language Technologies Institute, School of Computer Science at Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for jobs related to **Software Engineering** or **Machine Learning**.
 
 # Education
 
-* B.S. in Telecommunications Engineering, Beijing University of Posts and Telecommunications, 2019
-* M.S. in Intelligent Information System, Carnegie Mellon University, 2020 (expected)
+* B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, 2019
+* M.S. in Intelligent Information System, **Carnegie Mellon University**, 2020 (expected)
 
 # Work Experience
 
 * ### Global Energy Interconnection Research Institute North America
-* Software Engineer Intern
+* **Software Engineer Intern**
 * San Jose, 2020.5-2020.8
   * Currently responsible for data flow control in Deep Reinforcement Learning for Power Control in Grid Mind.
 
 * ### Tencent
-* Machine Learning Engineer Intern
+* **Machine Learning Engineer Intern**
 * Beijing, 2019.4-2019.7
   * Responsible for implementing Learn to Rank models and compare baseline results on MSLR-WEB dataset.
   * Used Lasso on logistic regression to select significant features among 136 features on above dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
 
 
 * ### Oracle
-* Software Engineer Intern
+* **Software Engineer Intern**
 * Beijing, 2018.9-2019.2
   * Responsible for designing automation testing methods in API and UI actions for Public Sector Cloud project.
   * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal.
