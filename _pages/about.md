@@ -18,6 +18,7 @@ I am currently a second year master student in Intelligent Information Systems (
 
 
 # Education
+{: .notice}
 
 <hr>
 
