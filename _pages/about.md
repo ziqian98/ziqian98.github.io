@@ -12,12 +12,20 @@ Welcome :-D
 
 I am currently a second year master student in Intelligent Information Systems (MIIS), Language Technologies Institute, School of Computer Science at Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for jobs related to **Software Engineering** or **Machine Learning**.
 
+
+
 # Education
+
+
+<hr>
+
 
 * B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, 2019
 * M.S. in Intelligent Information System, **Carnegie Mellon University**, 2020 (expected)
 
 # Work Experience
+
+<hr>
 
 * ## Global Energy Interconnection Research Institute North America
 * **Software Engineer Intern**
@@ -42,6 +50,8 @@ I am currently a second year master student in Intelligent Information Systems (
 
 # Project Experience
 
+<hr>
+
 * ### Question Answering in Math World Problems on MathQA dataset
 * Language Technologies Institute, Carnegie Mellon University, 2020.1-2020.5
   * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of **54.6%** for an ensemble model.
@@ -53,12 +63,16 @@ I am currently a second year master student in Intelligent Information Systems (
 
 # Publications
 
+<hr>
+
 * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third AAAI, Honolulu, Jan. 2019.
 * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of IJCNN’19, Budapest, Jul. 2019.
 
   
 
 # Skills
+
+<hr>
 
 * Java, Python, C, Pytorch, Tensorflow, Keras, Matlab
 
