@@ -32,27 +32,44 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Global Energy Interconnection Research Institute North America
 * **Software Engineer Intern**
 * San Jose, 2020.5-2020.8
-  * Currently responsible for data flow control in Deep Reinforcement Learning for Power Control in Grid Mind.
+  * Designed Deep Q Network with OpenAI Gym environment for Smart Power Control in California power grid. 
+  * Wrote highly efficient parsing methods for inputs of all Reinforcement Learning models, reduced parsing time by **60%**
+  * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**
 
 * ### Tencent
 * **Machine Learning Engineer Intern**
 * Beijing, 2019.4-2019.7
-  * Responsible for implementing Learn to Rank models and compare baseline results on MSLR-WEB dataset.
-  * Used Lasso on logistic regression to select significant features among 136 features on above dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
+  * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6%** @ MAP; By adding XQuAD and PM-2 algorithm, I also improved the diversity search results by **15% - 19%** @ NDCG
+  * Responsible for implementing Learn to Rank model pipeline and compare to baseline results on MSLR-WEB dataset.
+  * Used Lasso on logistic regression and SVM to select significant features among 136 features on MSLR-WEB dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
 
 
 * ### Oracle
 * **Software Engineer Intern**
 * Beijing, 2018.9-2019.2
-  * Responsible for designing automation testing methods in API and UI actions for Public Sector Cloud project.
-  * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal.
-  * Designed utility methods using Java regular expressions to capture warning prompts keywords thrown in the UI testing so that corresponding methods can be called to fix that error in different parts of the system.
+  * Designed automation testing methods by Java and JavaScript in API and UI actions for Public Sector Cloud project.
+  * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal in Postman.
+  * Designed utility methods in OpenScript using Java regular expressions to capture warning prompts keywords thrown in the UI testing so that corresponding methods can be called to fix that error in different parts of the system.
   * Designed utility methods to update changing fields in different versions of json files to support API testing.
 
 
 # Project Experience
 
 <hr>
+
+
+* ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
+* Machine Learning Department, Carnegie Mellon University
+  * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
+  * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on AWS EC2.
+  * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
+  
+  
+* ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
+* Machine Learning Department, Carnegie Mellon University
+  * Built logistic regression and PCA model by PySpark on AWS EMR and AWS S3 and achieved around **65%** accuracy.
+  * Built a scalable Entity Resolution System by inverted index and pair RDDs to measure similarities among large texts.
+  
 
 * ### Question Answering in Math World Problems on MathQA dataset
 * Language Technologies Institute, Carnegie Mellon University, 2020.1-2020.5
