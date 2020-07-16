@@ -47,7 +47,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Oracle
 * **Software Engineer Intern**
 * Beijing, 2018.9-2019.2
-  * Designed automation testing methods by Java and JavaScript in API and UI actions for Public Sector Cloud project.
+  * Designed automation testing methods by Java and JavaScript in API and UI actions for Enterprise-level project.
   * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal in Postman.
   * Designed utility methods in OpenScript using Java regular expressions to capture warning prompts keywords thrown in the UI testing so that corresponding methods can be called to fix that error in different parts of the system.
   * Designed utility methods to update changing fields in different versions of json files to support API testing.
