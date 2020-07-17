@@ -59,7 +59,7 @@ I am currently a second year master student in Intelligent Information Systems (
 
 
 * ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
-* Machine Learning Department, Carnegie Mellon University
+* Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
   * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on AWS EC2.
   * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
   * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
