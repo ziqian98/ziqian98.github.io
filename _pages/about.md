@@ -21,8 +21,8 @@ I am currently a second year master student in Intelligent Information Systems (
 
 <hr>
 
-* M.S. in Intelligent Information System, **Carnegie Mellon University**, 2020 (expected)
-* B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, 2019
+* M.S. in Intelligent Information System, **Carnegie Mellon University**, Dec. 2020 (expected)
+* B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
 
 # Work Experience
