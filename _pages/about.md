@@ -32,7 +32,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Global Energy Interconnection Research Institute North America
 * **Software Engineer Intern**
 * San Jose, 2020.5-2020.8
-  * Designed Deep Q Network with OpenAI Gym environment for Smart Power Control in California power grid. 
+  * Designed Deep Q Network with OpenAI Gym environment for smart power supply control in California power plants. 
   * Wrote highly efficient parsing methods for inputs of all Reinforcement Learning models, reduced parsing time by **60%**
   * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**
 
@@ -47,9 +47,9 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Oracle
 * **Software Engineer Intern**
 * Beijing, 2018.9-2019.2
-  * Designed automation testing methods by Java and JavaScript in API and UI actions for Enterprise-level project.
-  * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal in Postman.
-  * Designed utility methods in OpenScript using Java regular expressions to capture warning prompts keywords thrown in the UI testing so that corresponding methods can be called to fix that error in different parts of the system.
+  * Designed automation methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
+  * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal in **Postman**.
+  * Designed utility methods in **OpenScript** using Java regular expressions to capture keywords of exceptions or warning prompts thrown in the API and UI testing so that corresponding methods can be called to fix that error in the system.
   * Designed utility methods to update changing fields in different versions of json files to support API testing.
 
 
@@ -60,23 +60,29 @@ I am currently a second year master student in Intelligent Information Systems (
 
 * ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
 * Machine Learning Department, Carnegie Mellon University
-  * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
   * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on AWS EC2.
+  * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
   * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
   
   
 * ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
-* Machine Learning Department, Carnegie Mellon University
-  * Built logistic regression and PCA model by PySpark on AWS EMR and AWS S3 and achieved around **65%** accuracy.
+* Machine Learning Department, Carnegie Mellon University. 2020.1 - 2020.5
+  * Built logistic regression and PCA model by **PySpark** on AWS EMR and AWS S3 and achieved around **65%** accuracy.
   * Built a scalable Entity Resolution System by inverted index and pair RDDs to measure similarities among large texts.
   
 
 * ### Question Answering in Math World Problems on MathQA dataset
-* Language Technologies Institute, Carnegie Mellon University, 2020.1-2020.5
+* Language Technologies Institute, Carnegie Mellon University, 2020.1 - 2020.5
   * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of **54.6%** for an ensemble model.
   
+* ### Computer System Design
+* Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
+  * Designed a **shell program** in C with job control and I/O redirections, a **web proxy system** supports concurrency and cache
+  * Implemented a dynamic memory allocator library in C including malloc, free, calloc, realloc features, using segregated free lists with first-fit search, immediate coalescing of free blocks, and a separate singly linked list for small free blocks.
+  
+  
 * ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
-* Department of Computer Science of Technology, Tsinghua University, 2017.10-2019.3
+* Department of Computer Science of Technology, Tsinghua University, 2017.10 - 2019.3
   * Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis that outperforms state of art results by **7%** on MOSI dataset. 
   
 
