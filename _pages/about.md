@@ -78,7 +78,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Computer System Design
 * Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
   * Designed a **shell program** in C with job control and I/O redirections, a **web proxy system** supports concurrency and cache
-  * Implemented a dynamic memory allocator library in C including malloc, free, calloc, realloc features, using segregated free lists with first-fit search, immediate coalescing of free blocks, and a separate singly linked list for small free blocks.
+  * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features, using segregated free lists with first-fit search, immediate coalescing of free blocks, and a separate singly linked list for small free blocks.
   
   
 * ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
