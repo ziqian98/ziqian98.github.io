@@ -39,8 +39,8 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Tencent
 * **Machine Learning Engineer Intern**
 * Beijing, 2019.4-2019.7
-  * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6%** @ MAP; By adding XQuAD and PM-2 algorithm, I also improved the diversity search results by **15% - 19%** @ NDCG
-  * Responsible for implementing Learn to Rank model pipeline and compare to baseline results on MSLR-WEB dataset.
+  * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6%** @ MAP; By adding XQuAD and PM-2 algorithms, I also improved the diversity search results by **15% - 19%** @ NDCG
+  * Implemented Learn to Rank model pipeline and outperformed the baseline results by **3%** @ MAP on MSLR-WEB dataset.
   * Used Lasso on logistic regression and SVM to select significant features among 136 features on MSLR-WEB dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
 
 
@@ -49,9 +49,8 @@ I am currently a second year master student in Intelligent Information Systems (
 * Beijing, 2018.9-2019.2
   * Designed automation methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
   * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal in **Postman**.
-  * Designed utility methods in **OpenScript** using Java regular expressions to capture keywords of exceptions or warning prompts thrown in the API and UI testing so that corresponding methods can be called to fix that error in the system.
-  * Designed utility methods to update changing fields in different versions of json files to support API testing.
-
+  * Engineered exception handlers by OpenScript in both backend and frontend using Java Regex to capture keywords of exceptions or warning prompts thrown in API and UI testing so that solution methods can be called to fix specific errors.
+  * Improved testing infrastructure by developing version control methods for internal JSON files shared in different developing cycles.
 
 # Project Experience
 
