@@ -98,7 +98,7 @@ I am currently a second year master student in Intelligent Information Systems (
 
 <hr>
 
-* Java, Python, C, Matlab, Pytorch, Keras, Spark, HTML, JavaScript
+* Java, Python, C, Matlab, Pytorch, Keras, Spark, HTML, JavaScript, SQL
 
 
 
