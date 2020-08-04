@@ -33,7 +33,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * **Software Engineer Intern**
 * San Jose, 2020.5-2020.8
   * Designed Deep Q Network with OpenAI Gym environment for smart power supply control in California power plants. 
-  * Wrote highly efficient parsing methods for inputs of all Reinforcement Learning models, reduced parsing time by **60%**
+  * Wrote highly efficient input parsing methods, decoupling shared inputs from all Deep Reinforcement Learning models in the system, reduced parsing time by **60%**.
   * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**
 
 * ### Tencent
