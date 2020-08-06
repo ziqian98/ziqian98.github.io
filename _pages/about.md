@@ -36,7 +36,7 @@ I am currently a second year master student in Intelligent Information Systems (
   * Wrote highly efficient input parsing methods, decoupling shared inputs from all Deep Reinforcement Learning models in the system, reduced parsing time by **60%**.
   * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**
 
-* ### Tencent
+* ### Tencent (WeChat AI Team)
 * **Machine Learning Engineer Intern**
 * Beijing, 2019.4-2019.7
   * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6%** @ MAP; By adding XQuAD and PM-2 algorithms, I also improved the diversity search results by **15% - 19%** @ NDCG
