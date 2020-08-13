@@ -40,7 +40,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * **Machine Learning Engineer Intern**
 * Beijing, 2019.4-2019.7
   * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6%** @ MAP; By adding XQuAD and PM-2 algorithms, I also improved the diversity search results by **15% - 19%** @ NDCG
-  * Implemented Learn to Rank model pipeline and outperformed the baseline results by **3%** @ MAP on MSLR-WEB dataset.
+  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3%** @ MAP on MSLR-WEB dataset.
   * Used Lasso on logistic regression and SVM to select significant features among 136 features on MSLR-WEB dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
 
 
@@ -48,9 +48,10 @@ I am currently a second year master student in Intelligent Information Systems (
 * **Software Engineer Intern**
 * Beijing, 2018.9-2019.2
   * Designed automation methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
-  * Designed methods simulating user behaviors in UI and API operation to see if Get and Post actions are legal in **Postman**.
-  * Engineered exception handlers by OpenScript in both backend and frontend using Java Regex to capture keywords of exceptions or warning prompts thrown in API and UI testing so that solution methods can be called to fix specific errors.
+  * Designed methods simulating user behaviors in API and UI operation to see if Get and Post actions are legal in **Postman**.
+  * Engineered exception handlers by OpenScript in both backend and frontend using Java Regex to capture keywords of exceptions or warning prompts thrown in **API and UI testing** so that solution methods can be called to fix specific errors.
   * Improved testing infrastructure by developing version control methods for internal JSON files shared in different developing cycles.
+  * Designed a **web proxy system** to forward **HTTP request** between web browser and server, supports concurrency and cache.
 
 # Project Experience
 
@@ -59,15 +60,15 @@ I am currently a second year master student in Intelligent Information Systems (
 
 * ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
 * Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
-  * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on AWS EC2.
+  * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on **AWS EC2** with limited budget.
   * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
   * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
   
   
 * ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
 * Machine Learning Department, Carnegie Mellon University. 2020.1 - 2020.5
-  * Built logistic regression and PCA model by **PySpark** on AWS EMR and AWS S3 and achieved around **65%** accuracy.
-  * Built a scalable Entity Resolution System by inverted index and pair RDDs to measure similarities among large texts.
+  * Built logistic regression and PCA model by **PySpark** on AWS EMR and **AWS S3** and achieved around **65%** accuracy.
+  * Built a scalable Entity Resolution System by inverted index and **pair RDDs** to measure similarities among large texts.
   
 
 * ### Question Answering in Math World Problems on MathQA dataset
@@ -76,7 +77,7 @@ I am currently a second year master student in Intelligent Information Systems (
   
 * ### Computer System Design
 * Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
-  * Designed a **shell program** in C with job control and I/O redirections, a **web proxy system** supports concurrency and cache
+  * Designed a **cache simulator** with hit, miss, evict (LRU) behaviors, a **shell program** with job control and I/O redirections.
   * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features, using segregated free lists with first-fit search, immediate coalescing of free blocks, and a separate singly linked list for small free blocks.
   
   
@@ -98,7 +99,8 @@ I am currently a second year master student in Intelligent Information Systems (
 
 <hr>
 
-* Java, Python, C, Matlab, Pytorch, Keras, Spark, HTML, JavaScript
+* **Languages:** Java, Python, C/C++, Matlab, HTML, JavaScript, SQL
+* **Frameworks and Tools:** Pytorch, TensorFlow, Keras, Spark, MySQL, LaTeX, AWS, Azure, Git
 
 
 
