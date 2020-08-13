@@ -39,8 +39,8 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Tencent (WeChat AI Team)
 * **Machine Learning Engineer Intern**
 * Beijing, 2019.4-2019.7
-  * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6%** @ MAP; By adding XQuAD and PM-2 algorithms, I also improved the diversity search results by **15% - 19%** @ NDCG
-  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3%** @ MAP on MSLR-WEB dataset.
+  * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6% @ MAP**; By adding XQuAD and PM-2 algorithms, I also improved the diversity search results by **15% - 19% @ NDCG**
+  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3% @ MAP** on MSLR-WEB dataset.
   * Used Lasso on logistic regression and SVM to select significant features among 136 features on MSLR-WEB dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
 
 
