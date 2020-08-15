@@ -45,7 +45,7 @@ I am currently a second year master student in Intelligent Information Systems (
 
 
 * ### Oracle
-* **Software Engineer Intern**
+* **Full Stack Software Engineer Intern**
 * Beijing, 2018.9-2019.2
   * Designed automation methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
   * Designed methods simulating user behaviors in API and UI operation to see if Get and Post actions are legal in **Postman**.
