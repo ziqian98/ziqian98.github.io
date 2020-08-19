@@ -85,7 +85,7 @@ I am currently a second year master student in Intelligent Information Systems (
 
 <hr>
 
-* **Languages:** Java, Python, C/C++, Matlab
+* **Languages:** Java, Python, C, Matlab
 * **Frameworks and Tools:** Pytorch, Keras, Spark, LaTeX, AWS, Azure, Git
 
 
