@@ -70,7 +70,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Algorithms for NLP
 * Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
   * Designed a trigram language model with Kneser-Ney smoothing, saved memory by 50% by using bit packing trick.
-  * Implemented a generated PCFG parser for POS tagging, using CKY algorithm.
+  * Implemented a generated PCFG parser for POS tagging, using CKY algorithm, using SVM to rerank candicate parser.
   * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
   
  
