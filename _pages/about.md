@@ -60,12 +60,20 @@ I am currently a second year master student in Intelligent Information Systems (
 * Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
   * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on **AWS EC2** with limited budget.
   * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
-  * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
   
   
 * ### Question Answering in Math World Problems on MathQA dataset
 * Language Technologies Institute, Carnegie Mellon University, 2020.1 - 2020.5
   * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of **54.6%** for an ensemble model.
+  
+ 
+* ### Algorithms for NLP
+* Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
+  * Designed a trigram language model with Kneser-Ney smoothing, saved memory by 50% by using bit packing trick.
+  * Implemented a generated PCFG parser for POS tagging, using CKY algorithm.
+  * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
+  
+ 
   
 * ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 * Department of Computer Science of Technology, Tsinghua University, 2017.10 - 2019.3
