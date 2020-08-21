@@ -32,6 +32,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Global Energy Interconnection Research Institute North America
 * **Software Engineer Intern**
 * San Jose, 2020.5-2020.8
+  * Designed Deep Q Network with OpenAI Gym environment for smart power supply control in California power plants. 
   * Wrote highly efficient input parsing methods, decoupling shared inputs from all Deep Reinforcement Learning models in the system, reduced parsing time by **60%**.
   * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**
 
@@ -50,6 +51,7 @@ I am currently a second year master student in Intelligent Information Systems (
   * Designed methods simulating user behaviors in API and UI operation to see if Get and Post actions are legal in **Postman**.
   * Engineered exception handlers by OpenScript in both backend and frontend using Java Regex to capture keywords of exceptions or warning prompts thrown in **API and UI testing** so that solution methods can be called to fix specific errors.
   * Improved testing infrastructure by developing version control methods for internal JSON files shared in different developing cycles.
+  * Designed a **web proxy system** to forward **HTTP request** between web browser and server, supports concurrency and cache.
 
 # Project Experience
 
@@ -60,20 +62,24 @@ I am currently a second year master student in Intelligent Information Systems (
 * Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
   * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on **AWS EC2** with limited budget.
   * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
+  * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
   
   
+* ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
+* Machine Learning Department, Carnegie Mellon University. 2020.1 - 2020.5
+  * Built logistic regression and PCA model by **PySpark** on AWS EMR and **AWS S3** and achieved around **65%** accuracy.
+  * Built a scalable Entity Resolution System by inverted index and **pair RDDs** to measure similarities among large texts.
+  
+
 * ### Question Answering in Math World Problems on MathQA dataset
 * Language Technologies Institute, Carnegie Mellon University, 2020.1 - 2020.5
   * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of **54.6%** for an ensemble model.
   
- 
-* ### Algorithms for NLP
-* Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
-  * Designed a trigram language model with Kneser-Ney smoothing, saved memory by 50% by using bit packing trick.
-  * Implemented a generated PCFG parser for POS tagging, using CKY algorithm, using SVM to rerank candicate parser.
-  * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
+* ### Computer System Design
+* Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
+  * Designed a **cache simulator** with hit, miss, evict (LRU) behaviors, a **shell program** with job control and I/O redirections.
+  * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features, using segregated free lists with first-fit search, immediate coalescing of free blocks, and a separate singly linked list for small free blocks.
   
- 
   
 * ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 * Department of Computer Science of Technology, Tsinghua University, 2017.10 - 2019.3
@@ -93,8 +99,8 @@ I am currently a second year master student in Intelligent Information Systems (
 
 <hr>
 
-* **Languages:** Java, Python, C, Matlab
-* **Frameworks and Tools:** Pytorch, Keras, Spark, LaTeX, AWS, Azure, Git
+* **Languages:** Java, Python, C/C++, Matlab, HTML, JavaScript, SQL
+* **Frameworks and Tools:** Pytorch, TensorFlow, Keras, Spark, MySQL, LaTeX, AWS, Azure, Git
 
 
 
