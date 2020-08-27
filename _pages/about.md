@@ -75,6 +75,15 @@ I am currently a second year master student in Intelligent Information Systems (
 * Language Technologies Institute, Carnegie Mellon University, 2020.1 - 2020.5
   * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of **54.6%** for an ensemble model.
   
+  
+* ### Algorithms for NLP
+* Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
+  * Implemented a trigram languange model with Kneser-Ney Smoothing, which takes 3 minutes for building model from 9 million sentences and 200s to decode 2000 test sentences, by applying cache and bit packing trick.
+  * Implemented a generative PCFG parser by CKY algorithm for parts-of-speech tagging, training SVM to rerank candidate parsers, reaches 85.82 F1 Score.
+  * A reimplementation of the CNN baseline model for text classification (ACC:81.9%) in the paper:https://arxiv.org/pdf/1408.5882.pdf
+  
+
+  
 * ### Computer System Design
 * Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
   * Designed a **cache simulator** with hit, miss, evict (LRU) behaviors, a **shell program** with job control and I/O redirections.
