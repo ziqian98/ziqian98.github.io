@@ -42,7 +42,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * Beijing, China, 2019.4-2019.7
   * Implemented BM25 and Indri retrieval models with JM Smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback algorithm, improved search performance by **3% - 6% @ MAP**, based on Lucene indexes.
   * Improved the diversity of search results by **15% - 19% @ NDCG** by adding XQuAD and PM-2 algorithms.
-  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3% @ MAP** on MSLR-WEB dataset(2000 lines in Java).
+  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3% @ MAP** on MSLR-WEB dataset **(2000 lines in Java)**.
   * Applied Lasso on logistic regression and SVM in LTR pipeline to select significant features among 136 features on MSLR-WEB dataset and compared features chosen by other models like Random Forest on baseline results by state of the art LTR models.
 
 
