@@ -78,7 +78,7 @@ I am currently a second year master student in Intelligent Information Systems (
   
 * ### Algorithms for NLP
 * Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
-  * Implemented a trigram languange model with Kneser-Ney Smoothing, which takes 3 minutes for building model from 9 million sentences and 200s to decode 2000 test sentences, by applying cache and bit packing trick.
+  * Implemented a trigram language model with Kneser-Ney Smoothing, which takes 3 minutes for building model from 9 million sentences and 200s to decode 2000 test sentences, by applying cache and bit packing trick.
   * Implemented a generative PCFG parser by CKY algorithm for parts-of-speech tagging, training SVM to rerank candidate parsers, reaches 85.82 F1 Score.
   * A reimplementation of the CNN baseline model for text classification (ACC:81.9%) in the paper:[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
   
