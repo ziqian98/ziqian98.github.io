@@ -31,26 +31,28 @@ I am currently a second year master student in Intelligent Information Systems (
 
 * ### Global Energy Interconnection Research Institute North America
 * **Software Engineer Intern**
-* San Jose, 2020.5-2020.8
-  * Designed Deep Q Network with OpenAI Gym environment for smart power supply control in California power plants. 
-  * Wrote highly efficient input parsing methods, decoupling shared inputs from all Deep Reinforcement Learning models in the system, reduced parsing time by **60%**.
-  * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**
+* San Jose, CA, 2020.5-2020.8
+  * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants in California. 
+  * Wrote highly efficient input parsing methods, decoupling shared inputs from all Deep Reinforcement Learning models in the whole system, reduced parsing time by **60%**.
+  * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Boolean, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**
+
 
 * ### Tencent (WeChat AI Team)
 * **Machine Learning Engineer Intern**
-* Beijing, 2019.4-2019.7
-  * Implemented BM25 and Indri retrieval models with JM smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback method, improved search performance by **3% - 6% @ MAP**; By adding XQuAD and PM-2 algorithms, I also improved the diversity search results by **15% - 19% @ NDCG**
-  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3% @ MAP** on MSLR-WEB dataset.
-  * Used Lasso on logistic regression and SVM to select significant features among 136 features on MSLR-WEB dataset and compare features chosen by other models like Random Forest on baseline results of state of art LTR models.
+* Beijing, China, 2019.4-2019.7
+  * Implemented BM25 and Indri retrieval models with JM Smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback algorithm, improved search performance by **3% - 6% @ MAP**, based on Lucene indexes.
+  * Improved the diversity of search results by **15% - 19% @ NDCG** by adding XQuAD and PM-2 algorithms.
+  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3% @ MAP** on MSLR-WEB dataset(2000 lines in Java).
+  * Applied Lasso on logistic regression and SVM in LTR pipeline to select significant features among 136 features on MSLR-WEB dataset and compared features chosen by other models like Random Forest on baseline results by state of the art LTR models.
 
 
 * ### Oracle
 * **Full Stack Software Engineer Intern**
-* Beijing, 2018.9-2019.2
-  * Designed automation methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
+* Beijing, China, 2018.9-2019.2
+  * Created automation testing methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
   * Designed methods simulating user behaviors in API and UI operation to see if Get and Post actions are legal in **Postman**.
-  * Engineered exception handlers by OpenScript in both backend and frontend using Java Regex to capture keywords of exceptions or warning prompts thrown in **API and UI testing** so that solution methods can be called to fix specific errors.
-  * Improved testing infrastructure by developing version control methods for internal JSON files shared in different developing cycles.
+  * Engineered exception handlers by OpenScript in both backend and frontend using Java Regex to capture keywords of exceptions or warning prompts thrown in **API and UI testing** so that solution methods could be called automatically to fix specific errors.
+  * Improved testing infrastructure by developing version control methods for internal JSON files shared in different development cycles.
   * Designed a **web proxy system** to forward **HTTP request** between web browser and server, supports concurrency and cache.
 
 # Project Experience
@@ -61,8 +63,7 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
 * Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
   * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference, and achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on **AWS EC2** with limited budget.
-  * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss. 
-  * Word alignment between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
+  * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss to produce alignments between phonemes and utterances.
   
   
 * ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
@@ -78,13 +79,14 @@ I am currently a second year master student in Intelligent Information Systems (
   
 * ### Algorithms for NLP
 * Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
-  * Implemented a trigram language model with Kneser-Ney Smoothing, which takes 3 minutes for building model from 9 million sentences and 200s to decode 2000 test sentences, by applying cache and bit packing trick.
-  * Implemented a generative PCFG parser by CKY algorithm for parts-of-speech tagging, training SVM to rerank candidate parsers, reaches 85.82 F1 Score.
+  * Implemented a trigram language model with Kneser-Ney Smoothing, which takes 3 minutes for building model from 9 million sentences and 200s to decode 2000 test sentences, by applying cache and bit packing trick, with **30.62** in BLEU score.
+  * Implemented a generative PCFG parser by CKY algorithm for parts-of-speech tagging, training SVM to rerank candidate parsers, reaches **85.82** F1 Score.
+  * Generated word alignments between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER
   * A reimplementation of the CNN baseline model for text classification (ACC:81.9%) in the paper:[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
   
 * ### Computer System Design
 * Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
-  * Designed a **cache simulator** with hit, miss, evict (LRU) behaviors, a **shell program** with job control and I/O redirections.
+  * Designed a **cache simulator** with hit, miss, evict (LRU Policy) behaviors, a **shell program** with job control and I/O redirections.
   * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features, using segregated free lists with first-fit search, immediate coalescing of free blocks, and a separate singly linked list for small free blocks.
   
   
@@ -97,8 +99,8 @@ I am currently a second year master student in Intelligent Information Systems (
 
 <hr>
 
-* **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third AAAI, Honolulu, Jan. 2019.
-* **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of IJCNN’19, Budapest, Jul. 2019.
+* **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
+* **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
 
   
 
