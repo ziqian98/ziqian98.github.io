@@ -29,7 +29,7 @@ I am currently a second year master student in Intelligent Information Systems (
 
 <hr>
 
-* ### Global Energy Interconnection Research Institute North America
+* ### GEIRINA
 * **Software Engineer Intern**
 * San Jose, CA, 2020.5-2020.8
   * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants in California. 
