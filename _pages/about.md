@@ -62,7 +62,6 @@ I am currently a second year master student in Intelligent Information Systems (
 * Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
   * Implemented a generative PCFG parser by CKY algorithm for parts-of-speech tagging, training SVM to rerank candidate parsers, reaches **85.82** F1 Score.
   * Generated word alignments between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER.
-  * A reimplementation of the CNN baseline model for text classification (ACC:81.9%) in the paper:[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
   
 * ### Computer System Design
 * Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
