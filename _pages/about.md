@@ -50,29 +50,24 @@ I am currently a second year master student in Intelligent Information Systems (
 
 * ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
 * Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
-  * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference.
+  * Built an Attention-based End-to-End Speech Recognition System.
   
 * ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
 * Machine Learning Department, Carnegie Mellon University. 2020.1 - 2020.5
-  * Built logistic regression and PCA model by **PySpark** on AWS EMR and **AWS S3** and achieved around **65%** accuracy.
   * Built a scalable Entity Resolution System by inverted index and **pair RDDs** to measure similarities among large texts.
-  
   
 * ### Algorithms for NLP
 * Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
-  * Implemented a generative PCFG parser by CKY algorithm for parts-of-speech tagging, training SVM to rerank candidate parsers, reaches **85.82** F1 Score.
-  * Generated word alignments between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER.
+  * Generated word alignments between English and French sentence by HMM using Viterbi and EM algorithm.
   
 * ### Computer System Design
 * Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
-  * Designed a **cache simulator** with hit, miss, evict (LRU Policy) behaviors, a **shell program** with job control and I/O redirections.
-  * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features, using segregated free lists with first-fit search, immediate coalescing of free blocks, and a separate singly linked list for small free blocks.
+  * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features.
   
   
 * ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 * Department of Computer Science of Technology, Tsinghua University, 2017.10 - 2019.3
-  * Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis that outperforms state of art results by **7%** on MOSI dataset. 
-  
+  * Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
 
 # Publications
 
