@@ -34,7 +34,7 @@ I am currently a second year master student in Intelligent Information Systems (
 
 * ### Tencent (WeChat AI Team)
 * **Machine Learning Engineer Intern**
-* Beijing, China, 2019.5-2019.6
+* Beijing, China, 2019.4-2019.6
   * Responsible for implementing Learn To Rank pipeline
 
 
@@ -51,24 +51,15 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
 * Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
   * Built an Attention-based End-to-End Speech Recognition System, a Pyramidal Bi-LSTM as Encoder, two stacked LSTM with Attention as Decoder, combined Teacher Forcing and Gumbel Noise technique, using beam search during inference.
-  * Achieved a Levenshtein distance of **7.87** on Speech-to-Text task. Models trained on **AWS EC2** with limited budget.
-  * Implemented a speech utterance decoder, consists of a CNN-based feature extractor, a weight-dropped stack Bi-LSTM feature sequence encoder, and a DNN-based phoneme classifier, trained with lr_scheduler and CTC loss to produce alignments between phonemes and utterances.
-  
   
 * ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
 * Machine Learning Department, Carnegie Mellon University. 2020.1 - 2020.5
   * Built logistic regression and PCA model by **PySpark** on AWS EMR and **AWS S3** and achieved around **65%** accuracy.
   * Built a scalable Entity Resolution System by inverted index and **pair RDDs** to measure similarities among large texts.
   
-
-* ### Question Answering in Math World Problems on MathQA dataset
-* Language Technologies Institute, Carnegie Mellon University, 2020.1 - 2020.5
-  * Made improvements to the baseline Seq2Prog model, obtaining a accuracy of **54.6%** for an ensemble model.
-  
   
 * ### Algorithms for NLP
 * Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
-  * Implemented a trigram language model with Kneser-Ney Smoothing, which takes 3 minutes for building model from 9 million sentences and 200s to decode 2000 test sentences, by applying cache and bit packing trick, with **30.62** in BLEU score.
   * Implemented a generative PCFG parser by CKY algorithm for parts-of-speech tagging, training SVM to rerank candidate parsers, reaches **85.82** F1 Score.
   * Generated word alignments between English and French sentence by HMM using Viterbi and EM algorithm with **0.1976** of AER.
   * A reimplementation of the CNN baseline model for text classification (ACC:81.9%) in the paper:[Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882.pdf)
