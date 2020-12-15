@@ -11,9 +11,6 @@ redirect_from:
 Welcome :-D
 
 
-
-
-
 I am currently a second year master student in Intelligent Information Systems (MIIS), Language Technologies Institute, School of Computer Science at Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for full-time positions in **Software Engineering** or **Machine Learning**.
 
 
@@ -32,28 +29,19 @@ I am currently a second year master student in Intelligent Information Systems (
 * ### GEIRINA
 * **Software Engineer Intern**
 * San Jose, CA, 2020.5-2020.8
-  * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants in California. 
-  * Wrote highly efficient input parsing methods, decoupling shared inputs from all Deep Reinforcement Learning models in the whole system, reduced parsing time by **60%**.
-  * Designed DrlConfig class and .ini parameter file to maintain more than 120 parameters of whole system, in support of reading String, Boolean, Integer or Float type parameters. Complexity of modifying parameters was shorten from **O(N) to O(1)**.
+  * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants.
 
 
 * ### Tencent (WeChat AI Team)
 * **Machine Learning Engineer Intern**
-* Beijing, China, 2019.4-2019.7
-  * Implemented BM25 and Indri retrieval models with JM Smoothing and Bayesian Smoothing, added the query expansion feature by Indri Relevance Feedback algorithm, improved search performance by **3% - 6% @ MAP**, based on Lucene indexes.
-  * Improved the diversity of search results by **15% - 19% @ NDCG** by adding XQuAD and PM-2 algorithms.
-  * Implemented **Learn to Rank model** pipeline and outperformed the baseline results by **3% @ MAP** on MSLR-WEB dataset **(2000 lines in Java)**.
-  * Applied Lasso on logistic regression and SVM in LTR pipeline to select significant features among 136 features on MSLR-WEB dataset and compared features chosen by other models like Random Forest on baseline results by state of the art LTR models.
+* Beijing, China, 2019.5-2019.6
+  * Responsible for implementing Learn To Rank pipeline
 
 
 * ### Oracle
 * **Full Stack Software Engineer Intern**
 * Beijing, China, 2018.9-2019.2
   * Created automation testing methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
-  * Designed methods simulating user behaviors in API and UI operation to see if Get and Post actions are legal in **Postman**.
-  * Engineered exception handlers by OpenScript in both backend and frontend using Java Regex to capture keywords of exceptions or warning prompts thrown in **API and UI testing** so that solution methods could be called automatically to fix specific errors.
-  * Improved testing infrastructure by developing version control methods for internal JSON files shared in different development cycles.
-  * Designed a **web proxy system** to forward **HTTP request** between web browser and server, supports concurrency and cache.
 
 # Project Experience
 
