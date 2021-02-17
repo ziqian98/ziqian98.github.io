@@ -11,7 +11,7 @@ redirect_from:
 Welcome :-D
 
 
-I am currently a second year master student in Intelligent Information Systems (MIIS), Language Technologies Institute, School of Computer Science at Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for full-time positions in **Software Engineering** or **Machine Learning**.
+I am currently a second year master student in Language Technologies Institute, School of Computer Science at Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for full-time positions in **Software Engineering** or **Machine Learning**.
 
 
 # Education
