@@ -9,14 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year master student in Language Technologies Institute, School of Computer Science at Carnegie Mellon University. I am going to graduate in December, 2020. I am looking for full-time positions in **Software Engineering** or **Machine Learning**.
+I am software engineer in Oracle and I am interterested in Machine Learning, Deep Learning, Natural Language Processing, Multimodal Sentiment Analysis, Computer Vision, Object Detection.
 
 
 # Education
 
 <hr>
 
-* M.S. in Intelligent Information System, **Carnegie Mellon University**, Dec. 2020 (expected)
+* M.S. in Intelligent Information System, **Carnegie Mellon University**, Dec. 2020
 * B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
 
@@ -24,16 +24,21 @@ I am currently a second year master student in Language Technologies Institute, 
 
 <hr>
 
+* ### Oracle
+* **Software Engineer**
+* Seattle, WA, 2021.2-Current
+  * Oracle Cloud Infrasturcture, Multi-Cloud Migration, Cloud Bridge
+
 * ### GEIRINA
 * **Software Engineer Intern**
 * San Jose, CA, 2020.5-2020.8
-  * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants.
+  * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants
 
 
-* ### Tencent (WeChat AI Team)
+* ### Tencent
 * **Machine Learning Engineer Intern**
 * Beijing, China, 2019.4-2019.6
-  * Responsible for implementing Learn To Rank pipeline
+  * Responsible for implementing Learn To Rank pipeline in WeChat Group
 
 
 * ### Oracle
@@ -70,17 +75,17 @@ I am currently a second year master student in Language Technologies Institute, 
 # Publications
 
 <hr>
-
+* **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
 * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
 * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
+* Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI**, New York, Feb. 2020.
 
-  
 
 # Skills
 
 <hr>
 
-* **Languages:** Java, Python, C/C++, Matlab, HTML, JavaScript, VHDL, SQL
+* **Languages:** Java, Python, Golang, C/C++, Matlab, HTML, JavaScript, VHDL, SQL
 * **Frameworks:** Pytorch, TensorFlow, Keras, Scikit-learn
 * **Tools:** Spark, MySQL, LaTeX, AWS, Azure, Git, Jenkins, Docker, Travis
 
