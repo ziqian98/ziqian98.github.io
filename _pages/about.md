@@ -9,11 +9,6 @@ redirect_from:
   - /about.html
 ---
 <h1 style="color: blue;">About Me</h1>
-<hr>
-<hr style="height: 5px; background-color: black; border: none;">
-aaaa
-<hr style="height: 2px; background-color: black; border: none;">
-aaa
 
 <hr style="height: 1px; background-color: black; border: none;">
 
@@ -26,7 +21,7 @@ I have been contemplating how machines can transcend their computational limitat
 
 <h1 style="color: blue;">Research Interests</h1>
 
-<hr style="height: 5px; background-color: black; border: none;">
+<hr style="height: 1px; background-color: black; border: none;">
 
 
 `Multimodal Machine Learning`: representation, alignment, translation, fusion, and co-learning of heterogeneous data
@@ -38,23 +33,23 @@ I have been contemplating how machines can transcend their computational limitat
 `Computer Vision`: image processing, object detection, image segmentation, scene understanding
 
 
+<h1 style="color: blue;">Services</h1>
 
-# Services
-
-<hr>
+<hr style="height: 1px; background-color: black; border: none;">
 
 Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Peerj, MDPI
 
-# Education
 
-<hr>
+<h1 style="color: blue;">Education</h1>
+
+<hr style="height: 1px; background-color: black; border: none;">
 
 * M.S. in Computer Science, **Carnegie Mellon University**, Dec. 2020
 * B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
 <h1 style="color: blue;">Experience</h1>
 
-<hr>
+<hr style="height: 1px; background-color: black; border: none;">
 
 * ### Oracle 
   * **Software Engineer**, Feb 2021 - Current
@@ -74,9 +69,9 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   * **Full Stack Software Engineer Intern**, Sep 2018 - Feb 2019
     * Created automation testing methods for testing UI and API actions in frontend and backend.
 
-# Projects & Publications
+<h1 style="color: blue;">Projects & Publications</h1>
 
-<hr>
+<hr style="height: 1px; background-color: black; border: none;">
   
 ### Project 1: Multimodal Audio-Text Sentiment Analysis with Deep Fusion Models
 <br />
