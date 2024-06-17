@@ -76,18 +76,14 @@ I have been contemplating how machines can transcend their computational limitat
 ### Project 1:  <br /> Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
   <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 10px;">
-      <div style="border: 1px solid #ddd; padding: 10px;">
-        <img src="/images/project1.jpg" alt="Image Title" style="max-width: 100%;">
-      </div>
+      <img src="/images/project1.jpg" alt="Image Title" width="300" height="300">
     </div>
     <div style="flex: 1 1 auto;">
-      <div style="border: 1px solid #ddd; padding: 10px;">
-        Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
-        sefsiefsefj
-        sfehfsjfljslkefjslefjsejfsfsdfd
-        rallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
-        rallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
-      </div>
+      Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
+      sefsiefsefj
+      sfehfsjfljslkefjslefjsejfsfsdfd
+      rallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
+      rallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
     </div>
   </div>
 
