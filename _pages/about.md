@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 style="color: blue;">About Me</h1>
+<h1 style="color: #0056b3;">About Me</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
@@ -19,7 +19,7 @@ In my previous experiences, I have a diverse academic and industrial background,
 I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
 
-<h1 style="color: blue;">Research Interests</h1>
+<h1 style="color: #0056b3;">Research Interests</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
