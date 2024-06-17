@@ -74,12 +74,21 @@ I have been contemplating how machines can transcend their computational limitat
 <hr>
   
 ### Project 1:  <br /> Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
-
-  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project1.jpg" alt="Image Title" style="max-width: 100%;">
+    </div>
+    <div style="flex: 1 1 auto;">
+      Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijfrallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
+      sefsiefsefj
+      sfehfsjfljslkefjslefjsejfsfsdfd
+      rallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
+      rallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Dessfefsshfkhsfhsfsfsf,sfeijf
+    </div>
+  </div>
 
   > #key1 #key2
 
-  ![Image Title](/images/project1.jpg)
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
@@ -92,7 +101,9 @@ I have been contemplating how machines can transcend their computational limitat
 
   > #key1 #key2
 
-  <img src="/images/project1.jpg" alt="title is this" width="300" height="300">
+  <div style="text-align: center;">
+    <img src="/images/project1.jpg" alt="title is this" width="300" height="300">
+  </div>
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
