@@ -70,29 +70,12 @@ I have been contemplating how machines can transcend their computational limitat
 # Projects & Publications
 
 <hr>
-
-* ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
-* Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
-  * Built an Attention-based End-to-End Speech Recognition System.
-  
-* ### Predicting the Stock Market with Large Scale Reddit Comments Data (300GB)
-* Machine Learning Department, Carnegie Mellon University. 2020.1 - 2020.5
-  * Built a scalable Entity Resolution System by inverted index and **pair RDDs** to measure similarities among large texts.
-  
-* ### Algorithms for NLP
-* Language Technologies Institute, Carnegie Mellon University, 2019.8 - 2019.12
-  * Generated word alignments between English and French sentence by HMM using Viterbi and EM algorithm.
-  
-* ### Computer System Design
-* Computer Science Deparment, Carnegie Mellon University, 2019.4 - 2019.8
-  * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features.
-  
   
 * Project 1: ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 
-> #key1 #key2
-
   Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+
+  > #key1 #key2
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
@@ -101,9 +84,9 @@ I have been contemplating how machines can transcend their computational limitat
 
 * Project 2: ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 
-> #key1 #key2
-
   Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+
+  > #key1 #key2
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
