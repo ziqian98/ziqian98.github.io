@@ -9,33 +9,50 @@ redirect_from:
   - /about.html
 ---
 
-I am a research software engineer in Oracle. I received my master degree in Computer Science from Carnegie Mellon University, advised by Prof [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/)
+<hr>
 
-I am interterested in Machine Learning, Deep Learning, Natural Language Processing, Multimodal Sentiment Analysis, Computer Vision, Object Detection.
-test
+I am a research software engineer in Oracle Health and AI. I received my master degree in Computer Science from Carnegie Mellon University, advised by Prof [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
-test1
 
+# Research Interests
+
+<hr>
+
+**Multimodal Machine Learning**: representation, alignment, translation, fusion, and co-learning of heterogeneous data
+
+**Natural Language Processing (NLP)**: text representation, syntactic parsing, semantic analysis, text generation
+
+**Multimodal Sentiment Analysis**: text, audio, video, facial expressions, and physiological signals
+
+**Computer Vision: image processing**, object detection, image segmentation, scene understanding
+
+
+
+
+# Services
+
+<hr>
+
+  Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Wireless Networks, Peerj, MDPI
 
 # Education
 
 <hr>
 
-* M.S. in Intelligent Information System, **Carnegie Mellon University**, Dec. 2020
+* M.S. in Computer Science, **Carnegie Mellon University**, Dec. 2020
 * B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
-
-# Work Experience
+# Experience
 
 <hr>
 
 * ### Oracle
 * **Software Engineer**
 * Seattle, WA, 2021.2-Current
-  * Oracle Cloud Infrasturcture, Multi-Cloud Migration, Cloud Bridge
+  * Health and AI, Cloud Infrasturcture, Multi-Cloud Migration, Edge Cloud
 
 * ### GEIRINA
-* **Software Engineer Intern**
+* **Machine Learning Engineer Intern**
 * San Jose, CA, 2020.5-2020.8
   * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants
 
@@ -49,12 +66,11 @@ test1
 * ### Oracle
 * **Full Stack Software Engineer Intern**
 * Beijing, China, 2018.9-2019.2
-  * Created automation testing methods by Java and **JavaScript** for testing API and UI operations for an Enterprise-level project.
+  * Created automation testing methods for testing UI and API actions in frontend and backend.
 
-# Project Experience
+# Projects & Publications
 
 <hr>
-
 
 * ### Attention-based End-to-End Speech Recognition System (Top %10 on Kaggle Competition)
 * Machine Learning Department, Carnegie Mellon University 2020.1 - 2020.5
@@ -74,25 +90,16 @@ test1
   
   
 * ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
-* Department of Computer Science of Technology, Tsinghua University, 2017.10 - 2019.3
-  * Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+> #key1 #key2
 
-# Publications
+  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
 
-<hr>
-* **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
-* **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
+  * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
+  * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
+
+
 * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
 * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI**, New York, Feb. 2020.
-
-
-# Skills
-
-<hr>
-
-* **Languages:** Java, Python, Golang, C/C++, Matlab, HTML, JavaScript, VHDL, SQL
-* **Frameworks:** Pytorch, TensorFlow, Keras, Scikit-learn
-* **Tools:** Spark, MySQL, LaTeX, AWS, Azure, Git, Jenkins, Docker, Travis
 
 
 
