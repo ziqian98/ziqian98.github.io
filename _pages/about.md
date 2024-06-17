@@ -1,15 +1,16 @@
 ---
 layout: archive
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<h1 style="color: blue;">About Me</h1>
 <hr>
+<hr style="height: 5px; background-color: black; border: none;">
 
 I am a research software engineer in Oracle Health and AI. I received my Master's degree in Computer Science from Carnegie Mellon University, advised by Prof. [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/). 
 
@@ -18,9 +19,10 @@ In my previous experiences, I have a diverse academic and industrial background,
 I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
 
-# Research Interests
+<h1 style="color: blue;">Research Interests</h1>
 
-<hr>
+<hr style="height: 5px; background-color: black; border: none;">
+
 
 `Multimodal Machine Learning`: representation, alignment, translation, fusion, and co-learning of heterogeneous data
 
