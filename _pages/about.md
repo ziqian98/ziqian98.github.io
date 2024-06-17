@@ -33,21 +33,21 @@ I have been contemplating how machines can transcend their computational limitat
 `Computer Vision`: image processing, object detection, image segmentation, scene understanding
 
 
-<h1 style="color: blue;">Services</h1>
+<h1 style="color: #0056b3;">Services</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
 Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Peerj, MDPI
 
 
-<h1 style="color: blue;">Education</h1>
+<h1 style="color: #0056b3;">Education</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
 * M.S. in Computer Science, **Carnegie Mellon University**, Dec. 2020
 * B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
-<h1 style="color: blue;">Experience</h1>
+<h1 style="color: #0056b3;">Experience</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
@@ -69,7 +69,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   * **Full Stack Software Engineer Intern**, Sep 2018 - Feb 2019
     * Created automation testing methods for testing UI and API actions in frontend and backend.
 
-<h1 style="color: blue;">Projects & Publications</h1>
+<h1 style="color: #0056b3;">Projects & Publications</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
   
