@@ -45,7 +45,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 * M.S. in Computer Science, **Carnegie Mellon University**, Dec. 2020
 * B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
-# Experience
+<h1 style="color: blue;">Experience</h1>
 
 <hr>
 
