@@ -52,16 +52,19 @@ I have been contemplating how machines can transcend their computational limitat
 <hr>
 
 * ### Oracle
-  * **Software Engineer**, Seattle, WA, 2021.2-Current
+  * **Software Engineer**
+    Seattle, WA, 2021.2-Current
     * Health and AI, Cloud Infrasturcture, Multi-Cloud Migration, Edge Cloud
 
 * ### GEIRINA
-  * **Machine Learning Engineer Intern**, San Jose, CA, 2020.5-2020.8
+  * **Machine Learning Engineer Intern**
+  * San Jose, CA, 2020.5-2020.8
     * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants
 
 
 * ### Tencent
-  * **Machine Learning Engineer Intern**, Beijing, China, 2019.4-2019.6
+  * **Machine Learning Engineer Intern**
+  Beijing, China, 2019.4-2019.6
     * Responsible for implementing Learn To Rank pipeline in WeChat Group
 
 
