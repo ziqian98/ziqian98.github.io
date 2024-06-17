@@ -71,7 +71,7 @@ I have been contemplating how machines can transcend their computational limitat
 
 <hr>
   
-* Project 1: ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+### Project 1:  <br /> Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 
   Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
 
@@ -82,9 +82,10 @@ I have been contemplating how machines can transcend their computational limitat
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
 
 
-* Project 2: ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+* ### Project 2:  <br /> Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 
-  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network 
+  based on utterance-dependent LSTM and CNN for audio sentiment analysis.
 
   > #key1 #key2
 
