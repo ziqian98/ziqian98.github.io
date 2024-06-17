@@ -88,13 +88,26 @@ I have been contemplating how machines can transcend their computational limitat
   * Implemented a **dynamic memory allocator library** in C including malloc, free, calloc, realloc features.
   
   
-* ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+* Project 1: ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+
 > #key1 #key2
 
-  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
 
-  * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
-  * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
+  * Publications
+    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
+    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
+
+
+* Project 2: ### Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+
+> #key1 #key2
+
+  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+
+  * Publications
+    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
+    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
 
 
 * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
