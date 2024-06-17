@@ -11,6 +11,11 @@ redirect_from:
 <h1 style="color: blue;">About Me</h1>
 <hr>
 <hr style="height: 5px; background-color: black; border: none;">
+aaaa
+<hr style="height: 2px; background-color: black; border: none;">
+aaa
+
+<hr style="height: 1px; background-color: black; border: none;">
 
 I am a research software engineer in Oracle Health and AI. I received my Master's degree in Computer Science from Carnegie Mellon University, advised by Prof. [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/). 
 
