@@ -98,7 +98,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
   <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 10px;">
-      <img src="/images/project2.jpg" alt="Image Title" width="300" height="300">
+      <img src="/images/project2.jpg" alt="Image Title" style="border:0" width="300" height="300">
     </div>
     <div style="flex: 1 1 auto;">
       This project aims to explore how to leverage external knowledge to enhance the performance of the BART model in aspect-based summarization tasks. Contextualized pre-trained models, such as BERT and BART, have demonstrated significant potential in various natural language processing tasks, pushing state-of-the-art results to new levels. While studies have shown that these pre-trained models have captured different types of knowledge due to the massive corpora they have been trained on, injecting task-specific external knowledge often leads to further improvements. In this project, we select aspect-based abstractive summarization as a case study and investigate two different approaches to integrate external knowledge into BART. One approach involves using a knowledge graph, while the other involves using human-defined sequence-level scores. Experimental results indicate that both methods yield improvements over the vanilla BART model.
