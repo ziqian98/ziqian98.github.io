@@ -17,6 +17,7 @@ In my previous experiences, I have a diverse academic and industrial background,
 
 I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
+<hr>
 
 # Research Interests
 
@@ -31,6 +32,7 @@ I have been contemplating how machines can transcend their computational limitat
 **Computer Vision: image processing**, object detection, image segmentation, scene understanding
 
 
+<hr>
 
 # Services
 
@@ -77,22 +79,22 @@ I have been contemplating how machines can transcend their computational limitat
 
   > #key1 #key2
 
+  ![Image Title](/images/project1.jpg)
+
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
 
 
-* ### Project 2:  <br /> Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+### Project 1:  <br /> Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
 
-  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network 
-  based on utterance-dependent LSTM and CNN for audio sentiment analysis.
+  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
 
   > #key1 #key2
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
-
 
 * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
 * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI**, New York, Feb. 2020.
