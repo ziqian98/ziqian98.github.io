@@ -11,7 +11,11 @@ redirect_from:
 
 <hr>
 
-I am a research software engineer in Oracle Health and AI. I received my master degree in Computer Science from Carnegie Mellon University, advised by Prof [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
+I am a research software engineer in Oracle Health and AI. I received my Master's degree in Computer Science from Carnegie Mellon University, advised by Prof. [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/). 
+
+In my previous experiences, I have a diverse academic and industrial background, including Multimodal AI, Model Compression & Efficient ML, Graph Neural Networks, Computer Vision, Natural Language Processing, AI for Healthcare, Data Augmentation, Large-Scale ML, Speech & Audio, and solid software engineering experiences in algorithm design, data structures, problem-solving, and complexity. I’m also active in academics and have served as a reviewer for many top-tier AI/ML conferences, like ICLR, ACL, NeurIPS, etc.
+
+I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
 
 # Research Interests
@@ -20,12 +24,11 @@ I am a research software engineer in Oracle Health and AI. I received my master 
 
 **Multimodal Machine Learning**: representation, alignment, translation, fusion, and co-learning of heterogeneous data
 
-**Natural Language Processing (NLP)**: text representation, syntactic parsing, semantic analysis, text generation
+**Natural Language Processing**: text representation, syntactic parsing, semantic analysis, text generation
 
 **Multimodal Sentiment Analysis**: text, audio, video, facial expressions, and physiological signals
 
 **Computer Vision: image processing**, object detection, image segmentation, scene understanding
-
 
 
 
@@ -47,26 +50,22 @@ I am a research software engineer in Oracle Health and AI. I received my master 
 <hr>
 
 * ### Oracle
-* **Software Engineer**
-* Seattle, WA, 2021.2-Current
-  * Health and AI, Cloud Infrasturcture, Multi-Cloud Migration, Edge Cloud
+  * **Software Engineer**, Seattle, WA, 2021.2-Current
+    * Health and AI, Cloud Infrasturcture, Multi-Cloud Migration, Edge Cloud
 
 * ### GEIRINA
-* **Machine Learning Engineer Intern**
-* San Jose, CA, 2020.5-2020.8
-  * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants
+  * **Machine Learning Engineer Intern**, San Jose, CA, 2020.5-2020.8
+    * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants
 
 
 * ### Tencent
-* **Machine Learning Engineer Intern**
-* Beijing, China, 2019.4-2019.6
-  * Responsible for implementing Learn To Rank pipeline in WeChat Group
+  * **Machine Learning Engineer Intern**, Beijing, China, 2019.4-2019.6
+    * Responsible for implementing Learn To Rank pipeline in WeChat Group
 
 
 * ### Oracle
-* **Full Stack Software Engineer Intern**
-* Beijing, China, 2018.9-2019.2
-  * Created automation testing methods for testing UI and API actions in frontend and backend.
+  * **Full Stack Software Engineer Intern**, Beijing, China, 2018.9-2019.2
+    * Created automation testing methods for testing UI and API actions in frontend and backend.
 
 # Projects & Publications
 
