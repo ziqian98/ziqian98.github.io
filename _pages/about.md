@@ -17,7 +17,6 @@ In my previous experiences, I have a diverse academic and industrial background,
 
 I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
-<hr>
 
 # Research Interests
 
@@ -32,13 +31,12 @@ I have been contemplating how machines can transcend their computational limitat
 **Computer Vision: image processing**, object detection, image segmentation, scene understanding
 
 
-<hr>
 
 # Services
 
 <hr>
 
-  Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Wireless Networks, Peerj, MDPI
+Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Peerj, MDPI
 
 # Education
 
@@ -51,7 +49,8 @@ I have been contemplating how machines can transcend their computational limitat
 
 <hr>
 
-* **Oracle**, Software Engineer, Feb 2021 - Current
+* ### Oracle 
+  * **Software Engineer**, Feb 2021 - Current
     * Health and AI, Cloud Infrasturcture, Multi-Cloud Migration, Edge Cloud
 
 * ### GEIRINA
