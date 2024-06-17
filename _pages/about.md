@@ -9,7 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-I am software engineer in Oracle and I am interterested in Machine Learning, Deep Learning, Natural Language Processing, Multimodal Sentiment Analysis, Computer Vision, Object Detection.
+I am a research software engineer in Oracle. I received my master degree in Computer Science from Carnegie Mellon University, advised by Prof [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/)
+
+I am interterested in Machine Learning, Deep Learning, Natural Language Processing, Multimodal Sentiment Analysis, Computer Vision, Object Detection.
+test
+
+test1
 
 
 # Education
