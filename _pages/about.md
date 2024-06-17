@@ -93,6 +93,8 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Mar. 2019.
 
 
+<hr>
+
 ### Project 2: Knowledge-Enhanced Aspect-based Summarization with BART
 <br />
 
