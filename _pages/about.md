@@ -72,6 +72,8 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 <hr>
   
 ### Project 1:  <br /> Multimodal Audio-Text Sentiment Analysis with Deep Fusion Models
+
+
   <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 10px;">
       <img src="/images/project1.jpg" alt="Image Title" width="300" height="300">
