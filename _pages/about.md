@@ -109,9 +109,11 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   > #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
 
   * Publications
-    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
+    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun 2023.
     * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
     
+<hr>
+
 ### Project 3: Multi-Path Deep Learning for Imbalanced Data Classification in Cryo-Electron Tomography
 <br />
 
@@ -127,8 +129,29 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   > #Imbalanced Data, #Cryo-Electron Tomography, #Cell Classification, #Computational Biology
 
   * Publications
-    * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
+    * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul 2019.
     * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar 2022.
+
+
+<hr>
+    
+### Project 4: Optimizing Vision Transformers for Edge Computing
+<br />
+
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project4.jpg" alt="Image Title" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      The project aims to tackle the challenges of deploying Vision Transformers (ViT) in resource-constrained environments. Vision Transformers have revolutionized computer vision, surpassing traditional models in performance. However, their deployment is often limited by significant computational and memory requirements. This project evaluates and integrates four key model compression techniques—quantization, low-rank approximation, knowledge distillation, and pruning—to optimize ViTs. Through a thorough comparative analysis and extensive experimental evaluations, the project seeks to achieve a balanced compromise between model accuracy and computational efficiency, enabling the practical use of Vision Transformers in edge computing devices.
+    </div>
+  </div>
+
+  > #Vision Transformers, #Model Compression, #Edge Computing, #Resource Optimization, #Knowledge Distillation
+
+  * Publications
+    * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
+    * Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov 2023.
 
 
 <!--
