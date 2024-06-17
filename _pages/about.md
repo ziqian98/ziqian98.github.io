@@ -71,8 +71,8 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
 <hr>
   
-### Project 1:  <br /> Multimodal Audio-Text Sentiment Analysis with Deep Fusion Models
-
+### Project 1: Multimodal Audio-Text Sentiment Analysis with Deep Fusion Models
+<br />
 
   <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 10px;">
@@ -93,24 +93,24 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Mar. 2019.
 
 
-### Project 2:  <br /> Audio Sentiment Analysis by a Parallel and Utterance-Dependent Deep Learning Network
+### Project 2: Knowledge-Enhanced Aspect-based Summarization with BART
+<br />
 
-  Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.Designed a parallel network based on utterance-dependent LSTM and CNN for audio sentiment analysis.
-
-  > #key1 #key2
-
-  <div style="text-align: center;">
-    <img src="/images/project1.jpg" alt="title is this" width="300" height="300">
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project2.jpg" alt="Image Title" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      This project aims to explore how to leverage external knowledge to enhance the performance of the BART model in aspect-based summarization tasks. Contextualized pre-trained models, such as BERT and BART, have demonstrated significant potential in various natural language processing tasks, pushing state-of-the-art results to new levels. While studies have shown that these pre-trained models have captured different types of knowledge due to the massive corpora they have been trained on, injecting task-specific external knowledge often leads to further improvements. In this project, we select aspect-based abstractive summarization as a case study and investigate two different approaches to integrate external knowledge into BART. One approach involves using a knowledge graph, while the other involves using human-defined sequence-level scores. Experimental results indicate that both methods yield improvements over the vanilla BART model.
+    </div>
   </div>
+
+  > #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
-    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
+    * **Xueting Pan**, Ziqian Luo, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
     
-
-* **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
-* Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI**, New York, Feb. 2020.
-
 
 
 <!--
