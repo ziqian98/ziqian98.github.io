@@ -22,13 +22,13 @@ I have been contemplating how machines can transcend their computational limitat
 
 <hr>
 
-*Multimodal Machine Learning*: representation, alignment, translation, fusion, and co-learning of heterogeneous data
+`Multimodal Machine Learning`: representation, alignment, translation, fusion, and co-learning of heterogeneous data
 
-*Natural Language Processing*: text representation, syntactic parsing, semantic analysis, text generation
+`Natural Language Processing`: text representation, syntactic parsing, semantic analysis, text generation
 
-*Multimodal Sentiment Analysis*: text, audio, video, facial expressions, and physiological signals
+`Multimodal Sentiment Analysis`: text, audio, video, facial expressions, and physiological signals
 
-*Computer Vision*: image processing, object detection, image segmentation, scene understanding
+`Computer Vision`: image processing, object detection, image segmentation, scene understanding
 
 
 
