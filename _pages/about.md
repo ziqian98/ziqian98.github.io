@@ -74,8 +74,6 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 ### Project 1: Multimodal Audio-Text Sentiment Analysis with Deep Fusion Models
 <br />
 
-  > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
-  
   <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 10px;">
       <img src="/images/project1.jpg" alt="Image Title" width="300" height="300">
@@ -85,8 +83,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     </div>
   </div>
 
-
-
+  > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
@@ -113,8 +110,25 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
   * Publications
     * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
-    * **Xueting Pan**, Ziqian Luo, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
+    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
     
+### Project 3: Multi-Path Deep Learning for Imbalanced Data Classification in Cryo-Electron Tomography
+<br />
+
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project3.jpg" alt="Image Title" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      This project focuses on developing a deep learning-based strategy for the classification of cellular macromolecular complexes captured by Cryo-electron tomography (Cryo-ET), particularly addressing the challenge of imbalanced data. Imbalanced data often leads to unsatisfactory performance of deep learning models as they tend to prioritize major classes while ignoring classes with small amounts of data. In this study, we propose a range of strategies to effectively handle imbalanced data, including data sampling, bagging, boosting, Genetic Programming-based methods, and a novel multi-path convolutional neural network (CNN) model inspired by Inception 3D network. Our multi-path CNN model combines focal loss and mixup techniques to expand the dataset, allowing each path to specialize in a specific type of data and enabling the network to learn the optimal combinations of paths to enhance classification performance. Moreover, extensive experiments have been conducted to demonstrate the flexibility of our proposed method in coping with different numbers of classes by adjusting the number of paths in the multi-path model. This project represents the first application of deep learning methods for dealing with imbalanced data in the internal tissue classification of cell macromolecular complexes, thus opening up a new avenue for cell classification in the field of computational biology.
+    </div>
+  </div>
+
+  > #Imbalanced Data, #Cryo-Electron Tomography, #Cell Classification, #Computational Biology
+
+  * Publications
+    * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
+    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar 2022.
 
 
 <!--
