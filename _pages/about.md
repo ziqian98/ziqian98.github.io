@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="color: #0056b3;">About Me</h1>
+<h1 id="about-me" style="color: #0056b3;">About Me</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
@@ -20,7 +20,7 @@ In my previous experiences, I have a diverse academic and industrial background,
 I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
 
-<h1 style="color: #0056b3;">Research Interests</h1>
+<h1 id="research-interests" style="color: #0056b3;">Research Interests</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
@@ -34,21 +34,21 @@ I have been contemplating how machines can transcend their computational limitat
 `Computer Vision`: image processing, object detection, image segmentation, scene understanding
 
 
-<h1 style="color: #0056b3;">Services</h1>
+<h1 id="services" style="color: #0056b3;">Services</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
 Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Peerj, MDPI
 
 
-<h1 style="color: #0056b3;">Education</h1>
+<h1 id="education" style="color: #0056b3;">Education</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
 * M.S. in Computer Science, **Carnegie Mellon University**, Dec. 2020
 * B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
-<h1 style="color: #0056b3;">Experience</h1>
+<h1 id="experience" style="color: #0056b3;">Experience</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
@@ -70,7 +70,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   * **Full Stack Software Engineer Intern**, Sep 2018 - Feb 2019
     * Created automation testing methods for testing UI and API actions in frontend and backend.
 
-<h1 style="color: #0056b3;">Projects & Publications</h1>
+<h1 id="projects-publications" style="color: #0056b3;">Projects & Publications</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
   
