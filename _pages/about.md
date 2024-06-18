@@ -8,6 +8,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<nav>
+  <ul style="display: flex; list-style-type: none; padding: 0; background-color: #f8f9fa; border-bottom: 1px solid #e9ecef;">
+    <li style="margin-right: 20px;"><a href="#about-me" style="text-decoration: none; color: #0056b3;">About Me</a></li>
+    <li style="margin-right: 20px;"><a href="#research-interests" style="text-decoration: none; color: #0056b3;">Research Interests</a></li>
+    <li style="margin-right: 20px;"><a href="#services" style="text-decoration: none; color: #0056b3;">Services</a></li>
+    <li style="margin-right: 20px;"><a href="#education" style="text-decoration: none; color: #0056b3;">Education</a></li>
+    <li style="margin-right: 20px;"><a href="#experience" style="text-decoration: none; color: #0056b3;">Experience</a></li>
+    <li style="margin-right: 20px;"><a href="#projects-publications" style="text-decoration: none; color: #0056b3;">Projects & Publications</a></li>
+  </ul>
+</nav>
+
+
 <h1 style="color: #0056b3;">About Me</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
