@@ -89,8 +89,8 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
 
   * Publications
-    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, June, 2023.
-    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI**, Honolulu, Jan. 2019.
+    * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
+    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Utterance-Based Audio Sentiment Analysis Learned by a Parallel Combination of CNN and LSTM,” arXiv preprint, Nov. 2018.
     * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Mar. 2019.
 
