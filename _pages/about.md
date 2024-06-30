@@ -74,7 +74,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
 <hr style="height: 1px; background-color: black; border: none;">
   
-### Project 1: Multimodal Audio-Text Sentiment Analysis with Deep Fusion Models
+### Project 1: Multimodal Sentiment Analysis by Deep Learning Models
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -82,42 +82,21 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
       <img src="/images/project1.jpg" alt="Image Title" width="300" height="300">
     </div>
     <div style="flex: 1 1 auto;">
-      The project aims to explore cutting-edge research in the field of multimodal audio-text sentiment analysis. Sentiment analysis has garnered widespread attention in both academia and industry in recent years, with most studies focusing on text-based sentiment analysis. However, real-world information often originates from multiple modalities, including audio and text. Therefore, in this project, we integrate audio and text, considering the task of multimodal sentiment analysis, and propose a novel fusion strategy comprising both multi-feature fusion and multi-modality fusion to enhance the accuracy of audio-text sentiment analysis. We introduce the DFF-ATMF (Deep Feature Fusion - Audio and Text Modality Fusion) model, consisting of two parallel branches: an audio modality-based branch and a text modality-based branch. Its core mechanisms involve the fusion of multiple feature vectors and attention mechanisms across multiple modalities. Through experiments conducted on the CMU-MOSI dataset and the recently released CMU-MOSEI dataset, sourced from YouTube for sentiment analysis, our DFF-ATMF model demonstrates highly competitive results. Additionally, leveraging attention weight distribution heatmaps, we illustrate the complementary and robust nature of the deep features learned by the DFF-ATMF model. Remarkably, our model also achieves new state-of-the-art results on the IEMOCAP dataset, underscoring the generalization capability of our proposed fusion strategy for multimodal emotion recognition.
+      The project aims to explore the pioneering research in the field of multimodal audio-text sentiment analysis. Sentiment analysis has garnered widespread attention in both academia and industry in recent years, with most studies focusing on text-based sentiment analysis. However, real-world information often originates from multiple modalities, including audio and text. Therefore, in this project, we integrate audio and text, considering the task of multimodal sentiment analysis, and propose a novel fusion strategy comprising both multi-feature fusion and multi-modality fusion to enhance the accuracy of audio-text sentiment analysis. We introduce the DFF-ATMF (Deep Feature Fusion - Audio and Text Modality Fusion) model, consisting of two parallel branches: an audio modality-based branch and a text modality-based branch. Its core mechanisms involve the fusion of multiple feature vectors and attention mechanisms across multiple modalities. Through experiments conducted on the CMU-MOSI dataset and the recently released CMU-MOSEI dataset, sourced from YouTube for sentiment analysis, our DFF-ATMF model demonstrates highly competitive results. Additionally, leveraging attention weight distribution heatmaps, we illustrate the complementary and robust nature of the deep features learned by the DFF-ATMF model. Remarkably, our model also achieves new state-of-the-art results on the IEMOCAP dataset, underscoring the generalization capability of our proposed fusion strategy for multimodal emotion recognition.
     </div>
   </div>
 
   > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
 
   * Publications
-    * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Utterance-Based Audio Sentiment Analysis Learned by a Parallel Combination of CNN and LSTM,” arXiv preprint, Nov. 2018.
-    * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Mar. 2019.
+    * Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Nov. 2018.
 
 
 <hr>
 
-### Project 2: Knowledge-Enhanced Aspect-based Summarization with BART
-<br />
-
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 0 0 auto; margin-right: 10px;">
-      <img src="/images/project2.jpg" alt="Image Title" style="border:0" width="300" height="300">
-    </div>
-    <div style="flex: 1 1 auto;">
-      This project aims to explore how to leverage external knowledge to enhance the performance of the BART model in aspect-based summarization tasks. Contextualized pre-trained models, such as BERT and BART, have demonstrated significant potential in various natural language processing tasks, pushing state-of-the-art results to new levels. While studies have shown that these pre-trained models have captured different types of knowledge due to the massive corpora they have been trained on, injecting task-specific external knowledge often leads to further improvements. In this project, we select aspect-based abstractive summarization as a case study and investigate two different approaches to integrate external knowledge into BART. One approach involves using a knowledge graph, while the other involves using human-defined sequence-level scores. Experimental results indicate that both methods yield improvements over the vanilla BART model.
-    </div>
-  </div>
-
-  > #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
-
-  * Publications
-    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun 2023.
-    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
-    
-<hr>
-
-### Project 3: Multi-Path Deep Learning for Imbalanced Data Classification in Cryo-Electron Tomography
+### Project 2: Cellular Macromolecules and Image Classification by Advanced Neural Network Strategies
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -125,20 +104,45 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
       <img src="/images/project3.jpg" alt="Image Title" width="300" height="300">
     </div>
     <div style="flex: 1 1 auto;">
-      This project focuses on developing a deep learning-based strategy for the classification of cellular macromolecular complexes captured by Cryo-electron tomography (Cryo-ET), particularly addressing the challenge of imbalanced data. Imbalanced data often leads to unsatisfactory performance of deep learning models as they tend to prioritize major classes while ignoring classes with small amounts of data. In this study, we propose a range of strategies to effectively handle imbalanced data, including data sampling, bagging, boosting, Genetic Programming-based methods, and a novel multi-path convolutional neural network (CNN) model inspired by Inception 3D network. Our multi-path CNN model combines focal loss and mixup techniques to expand the dataset, allowing each path to specialize in a specific type of data and enabling the network to learn the optimal combinations of paths to enhance classification performance. Moreover, extensive experiments have been conducted to demonstrate the flexibility of our proposed method in coping with different numbers of classes by adjusting the number of paths in the multi-path model. This project represents the first application of deep learning methods for dealing with imbalanced data in the internal tissue classification of cell macromolecular complexes, thus opening up a new avenue for cell classification in the field of computational biology.
+      This project conducts an extensive investigation into advanced deep learning methodologies tailored for intricate challenges in image classification and the effective management of imbalanced datasets. It encompasses thorough research on convolutional neural networks (CNNs) optimized for various image recognition tasks, innovative strategies for mitigating the impact of data imbalance, and comprehensive evaluations of diverse neural network architectures. Highlighted applications include the classification of macromolecules using cellular electron tomography data, providing detailed insights into robust model architectures and methodologies aimed at significantly improving classification accuracy across a wide spectrum of image analysis domains.
     </div>
   </div>
 
-  > #Imbalanced Data, #Cryo-Electron Tomography, #Cell Classification, #Computational Biology
+  > #Imbalanced Data, #Cryo-Electron Tomography, #Image Classification, #Computational Biology
 
   * Publications
     * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul 2019.
     * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar 2022.
+    * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Jiang Ying, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, Jun 2024.
+
+
+<hr>
+
+### Project 3: Innovative AI-Driven Summarization and Multimedia Generation Framework
+<br />
+
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project2.jpg" alt="Image Title" style="border:0" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      This project integrates cutting-edge advancements in natural language processing and multimedia generation to create a comprehensive AI-driven framework. By leveraging contextualized pre-trained models such as BERT and BART, the project explores innovative methods to enhance aspect-based abstractive summarization through the injection of external knowledge. This includes utilizing knowledge graphs and human-defined sequence-level scores to improve summarization accuracy and relevance. Simultaneously, the project addresses the challenges in Music Anime Douga (MAD) production, a popular form of multimedia that combines animation with music. It introduces a novel framework for generating high-quality videos from text-image pairs, overcoming the limitations of existing text-to-video synthesis methods. This multi-modal system interprets narrative and visual inputs to produce seamless video outputs, enhancing artistic control and preserving the creator's intent. By combining these two advanced AI applications, the project aims to revolutionize both text summarization and multimedia content creation, democratizing the production process and encouraging broader artistic participation and innovation. Through rigorous experimentation and validation, this integrated framework sets the stage for future advancements in AI-assisted content generation and summarization technologies.
+    </div>
+  </div>
+
+  > #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
+
+  * Publications
+    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun 2023.
+    * Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov 2023.
+    * **Ziqian Luo**, Feiyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jun 2024
+    
+    
 
 
 <hr>
     
-### Project 4: Optimizing Vision Transformers for Edge Computing
+### Project 4: Unified AI Framework for Multimodal Multimedia Analysis and Efficient Distributed Computing
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -146,15 +150,16 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
       <img src="/images/project4.jpg" alt="Image Title" width="300" height="300">
     </div>
     <div style="flex: 1 1 auto;">
-      The project aims to tackle the challenges of deploying Vision Transformers (ViT) in resource-constrained environments. Vision Transformers have revolutionized computer vision, surpassing traditional models in performance. However, their deployment is often limited by significant computational and memory requirements. This project evaluates and integrates four key model compression techniques—quantization, low-rank approximation, knowledge distillation, and pruning—to optimize ViTs. Through a thorough comparative analysis and extensive experimental evaluations, the project seeks to achieve a balanced compromise between model accuracy and computational efficiency, enabling the practical use of Vision Transformers in edge computing devices.
+      This project aims to develop a comprehensive AI framework that enhances multimodal sentiment analysis, optimizes distributed file systems, and improves the deployment efficiency of advanced neural network models. By integrating techniques for fusing multiple features and modalities, the project seeks to advance the accuracy of sentiment analysis by leveraging both audio and text data. The innovative fusion strategy enhances the complementarity and robustness of deep features, demonstrating superior performance and generalization across various datasets. In parallel, the project addresses the architectural and implementation challenges of distributed file systems, focusing on achieving flexible, scalable, and resilient file storage solutions. By exploring and refining various DFS architectures, the framework aims to provide efficient, stable, and secure file management across interconnected nodes, ensuring seamless access and manipulation of distributed data. Furthermore, the project tackles the high computational and memory demands of Vision Transformers by evaluating and optimizing model compression techniques such as quantization, low-rank approximation, knowledge distillation, and pruning. These methods aim to balance model accuracy with computational efficiency, facilitating the deployment of Vision Transformers in resource-constrained environments like edge computing devices. Through the convergence of these research areas, the project aspires to create a unified and efficient AI framework that not only advances the state-of-the-art in multimodal sentiment analysis and distributed computing but also enables the practical deployment of sophisticated neural network models in diverse technological domains.
     </div>
   </div>
 
   > #Vision Transformers, #Model Compression, #Edge Computing, #Resource Optimization, #Knowledge Distillation
 
   * Publications
+    * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
+    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
     * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
-    * Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov 2023.
 
 
 <!--
