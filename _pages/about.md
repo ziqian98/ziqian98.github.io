@@ -116,9 +116,32 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Jiang Ying, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, Jun 2024.
 
 
+
+<hr>
+    
+### Project 3: Unified AI Framework for Multimodal Multimedia Analysis and Efficient Distributed Computing
+<br />
+
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project4.jpg" alt="Image Title" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      This project aims to develop a comprehensive AI framework enhancing multimodal sentiment analysis, optimizing distributed file systems, and improving the deployment efficiency of advanced neural network models. By integrating techniques to fuse multiple features and modalities, it boosts sentiment analysis accuracy using both audio and text data. Simultaneously, it tackles distributed file system challenges by focusing on flexible, scalable, and resilient file storage solutions. Additionally, the project addresses Vision Transformer computational demands through optimized model compression techniques, balancing accuracy with efficiency for deployment in resource-constrained environments like edge computing devices. Through these efforts, the project seeks to create a unified AI framework that advances state-of-the-art in sentiment analysis, distributed computing, and practical deployment of neural network models across diverse technological domains.
+    </div>
+  </div>
+
+  > #Vision Transformers, #Model Compression, #Edge Computing, #Resource Optimization, #Knowledge Distillation
+
+  * Publications
+    * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
+    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
+    * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
+
+
 <hr>
 
-### Project 3: Innovative AI-Driven Summarization and Multimedia Generation Framework
+### Project 4: Innovative AI-Driven Summarization and Multimedia Generation Framework
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -139,27 +162,6 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     
     
 
-
-<hr>
-    
-### Project 4: Unified AI Framework for Multimodal Multimedia Analysis and Efficient Distributed Computing
-<br />
-
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 0 0 auto; margin-right: 10px;">
-      <img src="/images/project4.jpg" alt="Image Title" width="300" height="300">
-    </div>
-    <div style="flex: 1 1 auto;">
-      This project aims to develop a comprehensive AI framework enhancing multimodal sentiment analysis, optimizing distributed file systems, and improving the deployment efficiency of advanced neural network models. By integrating techniques to fuse multiple features and modalities, it boosts sentiment analysis accuracy using both audio and text data. Simultaneously, it tackles distributed file system challenges by focusing on flexible, scalable, and resilient file storage solutions. Additionally, the project addresses Vision Transformer computational demands through optimized model compression techniques, balancing accuracy with efficiency for deployment in resource-constrained environments like edge computing devices. Through these efforts, the project seeks to create a unified AI framework that advances state-of-the-art in sentiment analysis, distributed computing, and practical deployment of neural network models across diverse technological domains.
-    </div>
-  </div>
-
-  > #Vision Transformers, #Model Compression, #Edge Computing, #Resource Optimization, #Knowledge Distillation
-
-  * Publications
-    * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
-    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
-    * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
 
 
 <!--
