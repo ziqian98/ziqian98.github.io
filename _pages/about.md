@@ -90,7 +90,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
   * Publications
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
-    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Utterance-Based Audio Sentiment Analysis Learned by a Parallel Combination of CNN and LSTM,” arXiv preprint, Nov. 2018.
+    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Apr. 2019.
     * Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Jul. 2019.
 
 
@@ -113,7 +113,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   * Publications
     * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul 2019.
     * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar 2022.
-    * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Jiang Ying, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, Jun 2024.
+    * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, Jun 2024.
 
 
 
