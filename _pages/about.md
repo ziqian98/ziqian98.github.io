@@ -74,29 +74,8 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
 <hr style="height: 1px; background-color: black; border: none;">
   
-### Project 1: Multimodal Sentiment Analysis by Deep Learning Models
-<br />
 
-  <div style="display: flex; align-items: center;">
-    <div style="flex: 0 0 auto; margin-right: 10px;">
-      <img src="/images/project1.jpg" alt="Image Title" width="300" height="300">
-    </div>
-    <div style="flex: 1 1 auto;">
-      The project aims to explore the pioneering research in the field of multimodal audio-text sentiment analysis. Sentiment analysis has garnered widespread attention in both academia and industry in recent years, with most studies focusing on text-based sentiment analysis. However, real-world information often originates from multiple modalities, including audio and text. Therefore, in this project, we integrate audio and text, considering the task of multimodal sentiment analysis, and propose a novel fusion strategy comprising both multi-feature fusion and multi-modality fusion to enhance the accuracy of audio-text sentiment analysis. We introduce the DFF-ATMF (Deep Feature Fusion - Audio and Text Modality Fusion) model, consisting of two parallel branches: an audio modality-based branch and a text modality-based branch. Its core mechanisms involve the fusion of multiple feature vectors and attention mechanisms across multiple modalities. Through experiments conducted on the CMU-MOSI dataset and the recently released CMU-MOSEI dataset, sourced from YouTube for sentiment analysis, our DFF-ATMF model demonstrates highly competitive results. Additionally, leveraging attention weight distribution heatmaps, we illustrate the complementary and robust nature of the deep features learned by the DFF-ATMF model. Remarkably, our model also achieves new state-of-the-art results on the IEMOCAP dataset, underscoring the generalization capability of our proposed fusion strategy for multimodal emotion recognition.
-    </div>
-  </div>
-
-  > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
-
-  * Publications
-    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
-    * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Apr. 2019.
-    * Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Jul. 2019.
-
-
-<hr>
-
-### Project 2: Cellular Macromolecules and Image Classification by Advanced Neural Network Strategies
+### Project 1: Cellular Macromolecules and Image Classification by Advanced Neural Network Strategies
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -116,10 +95,9 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, 6(3), 17–22, July 2024.
 
 
-
 <hr>
-    
-### Project 3: Unified AI Framework for Multimodal Multimedia Analysis and Efficient Distributed Computing
+
+### Project 2: Unified AI Framework for Multimodal Multimedia Analysis and Efficient Distributed Computing
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -137,6 +115,28 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
     * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
     * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
+
+
+<hr>
+    
+### Project 3: Audio Sentiment Analysis by Deep Learning Models
+<br />
+
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project1.jpg" alt="Image Title" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      The project aims to explore the pioneering research in the field of multimodal audio-text sentiment analysis. Sentiment analysis has garnered widespread attention in both academia and industry in recent years, with most studies focusing on text-based sentiment analysis. However, real-world information often originates from multiple modalities, including audio and text. Therefore, in this project, we integrate audio and text, considering the task of multimodal sentiment analysis, and propose a novel fusion strategy comprising both multi-feature fusion and multi-modality fusion to enhance the accuracy of audio-text sentiment analysis. We introduce the DFF-ATMF (Deep Feature Fusion - Audio and Text Modality Fusion) model, consisting of two parallel branches: an audio modality-based branch and a text modality-based branch. Its core mechanisms involve the fusion of multiple feature vectors and attention mechanisms across multiple modalities. Through experiments conducted on the CMU-MOSI dataset and the recently released CMU-MOSEI dataset, sourced from YouTube for sentiment analysis, our DFF-ATMF model demonstrates highly competitive results. Additionally, leveraging attention weight distribution heatmaps, we illustrate the complementary and robust nature of the deep features learned by the DFF-ATMF model. Remarkably, our model also achieves new state-of-the-art results on the IEMOCAP dataset, underscoring the generalization capability of our proposed fusion strategy for multimodal emotion recognition.
+    </div>
+  </div>
+
+  > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
+
+  * Publications
+    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
+    * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Apr. 2019.
+    * Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Jul. 2019.
 
 
 <hr>
