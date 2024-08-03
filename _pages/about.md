@@ -4,26 +4,26 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+<div id="about-me" style="position: relative; top: -80px"></div>
 <h1 id="about-me" style="color: #0056b3;">About Me</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
-I am a research software engineer in Oracle Health and AI. I received my Master's degree in Computer Science from Carnegie Mellon University, advised by Prof. [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/). 
+I am a research software engineer in Oracle Health and AI. I received my Master's degree in Computer Science from Carnegie Mellon University, advised by Prof. [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/).
 
 In my previous experiences, I have a diverse academic and industrial background, including Multimodal AI, Model Compression & Efficient ML, Graph Neural Networks, Computer Vision, Natural Language Processing, AI for Healthcare, Data Augmentation, Large-Scale ML, Speech & Audio, and solid software engineering experiences in algorithm design, data structures, problem-solving, and complexity. I’m also active in academics and have served as a reviewer for many top-tier AI/ML conferences, like ICLR, ACL, NeurIPS, etc.
 
 I have been contemplating how machines can transcend their computational limitations to comprehend human intelligence. My aim is to create computationally efficient machine learning and deep learning models and algorithms, establishing the computational foundations that will enable computers to analyze, recognize, and predict subtle human communicative behaviors in social interactions.
 
-
-<h1 id="research-interests" style="color: #0056b3;">Research Interests</h1>
+<div id="research-interests" style="position: relative; top: -80px"></div>
+<h1 style="color: #0056b3;">Research Interests</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
-
 
 `Multimodal Machine Learning`: representation, alignment, translation, fusion, and co-learning of heterogeneous data
 
@@ -33,49 +33,53 @@ I have been contemplating how machines can transcend their computational limitat
 
 `Computer Vision`: image processing, object detection, image segmentation, scene understanding
 
-
-<h1 id="services" style="color: #0056b3;">Services</h1>
+<div id="services" style="position: relative; top: -80px"></div>
+<h1 style="color: #0056b3;">Services</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
 Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Peerj, MDPI
 
-
-<h1 id="education" style="color: #0056b3;">Education</h1>
-
-<hr style="height: 1px; background-color: black; border: none;">
-
-* M.S. in Computer Science, **Carnegie Mellon University**, Dec. 2020
-* B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
-
-<h1 id="experience" style="color: #0056b3;">Experience</h1>
+<div id="education" style="position: relative; top: -80px"></div>
+<h1 style="color: #0056b3;">Education</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
 
-* ### Oracle 
-  * **Software Engineer**, Feb 2021 - Current
-    * Health and AI, Cloud Infrasturcture, Multi-Cloud Migration, Edge Cloud
+- M.S. in Computer Science, **Carnegie Mellon University**, Dec. 2020
+- B.S. in Telecommunications Engineering, **Beijing University of Posts and Telecommunications**, Jun. 2019
 
-* ### GEIRINA
-  * **Machine Learning Engineer Intern**, May 2020 - Aug 2020
-    * Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants
-
-
-* ### Tencent
-  * **Machine Learning Engineer Intern**, Apr 2019 - Jun 2019
-    * Responsible for implementing Learn To Rank pipeline in WeChat AI
-
-
-* ### Oracle
-  * **Full Stack Software Engineer Intern**, Sep 2018 - Feb 2019
-    * Created automation testing methods for testing UI and API actions in frontend and backend.
-
-<h1 id="projects-publications" style="color: #0056b3;">Projects & Publications</h1>
+<div id="experience" style="position: relative; top: -80px"></div>
+<h1 style="color: #0056b3;">Experience</h1>
 
 <hr style="height: 1px; background-color: black; border: none;">
-  
+
+- ### Oracle
+
+  - **Software Engineer**, Feb 2021 - Current
+    - Health and AI, Cloud Infrasturcture, Multi-Cloud Migration, Edge Cloud
+
+- ### GEIRINA
+
+  - **Machine Learning Engineer Intern**, May 2020 - Aug 2020
+    - Maintained Deep Q Network with OpenAI Gym environment for smart power supply control for power plants
+
+- ### Tencent
+
+  - **Machine Learning Engineer Intern**, Apr 2019 - Jun 2019
+    - Responsible for implementing Learn To Rank pipeline in WeChat AI
+
+- ### Oracle
+  - **Full Stack Software Engineer Intern**, Sep 2018 - Feb 2019
+    - Created automation testing methods for testing UI and API actions in frontend and backend.
+
+<div id="projects-publications" style="position: relative; top: -80px"></div>
+<h1 style="color: #0056b3;">Projects & Publications</h1>
+
+<hr style="height: 1px; background-color: black; border: none;">
+
 
 ### Project 1: Cellular Macromolecules and Image Classification by Advanced Neural Network Strategies
+
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -87,17 +91,17 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     </div>
   </div>
 
-  > #Imbalanced Data, #Cryo-Electron Tomography, #Image Classification, #Computational Biology
+> #Imbalanced Data, #Cryo-Electron Tomography, #Image Classification, #Computational Biology
 
-  * Publications
-    * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul 2019.
-    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar 2022.
-    * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, 6(3), 17–22, July 2024.
-
+- Publications
+  - **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul 2019.
+  - Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar 2022.
+  - Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, 6(3), 17–22, July 2024.
 
 <hr>
 
 ### Project 2: Unified AI Framework for Multimodal Multimedia Analysis and Efficient Distributed Computing
+
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -109,13 +113,12 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     </div>
   </div>
 
-  > #Vision Transformers, #Model Compression, #Edge Computing, #Resource Optimization, #Knowledge Distillation
+> #Vision Transformers, #Model Compression, #Edge Computing, #Resource Optimization, #Knowledge Distillation
 
-  * Publications
-    * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
-    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
-    * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
-
+- Publications
+  - Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
+  - Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
+  - Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
 
 <hr>
     
@@ -131,17 +134,17 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     </div>
   </div>
 
-  > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
+> #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
 
-  * Publications
-    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
-    * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Apr. 2019.
-    * Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Jul. 2019.
-
+- Publications
+  - **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
+  - Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Apr. 2019.
+  - Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Jul. 2019.
 
 <hr>
 
 ### Project 4: Innovative AI-Driven Summarization and Multimedia Generation Framework
+
 <br />
 
   <div style="display: flex; align-items: center;">
@@ -153,16 +156,12 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
     </div>
   </div>
 
-  > #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
+> #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
 
-  * Publications
-    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun 2023.
-    * Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov 2023.
-    * **Ziqian Luo**, Feiyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jun 2024
-    
-    
-
-
+- Publications
+  - **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun 2023.
+  - Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov 2023.
+  - **Ziqian Luo**, Feiyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jun 2024
 
 <!--
 
@@ -177,15 +176,15 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
 Create content & metadata
 ------
@@ -198,7 +197,7 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
