@@ -162,7 +162,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 - Publications
   - **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun. 2023.
   - Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov. 2023.
-  - **Ziqian Luo**, Feiyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jul. 2024
+  - **Ziqian Luo**, Feiyang Chen, Xiaoyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jul. 2024
 
 
 <hr>
