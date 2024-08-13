@@ -172,7 +172,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
   <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 10px;">
-      <img src="/images/project2.jpg" alt="Image Title" style="border:0" width="300" height="300">
+      <img src="/images/project5.jpg" alt="Image Title" style="border:0" width="300" height="300">
     </div>
     <div style="flex: 1 1 auto;">
       This project delves into the intersection of visual and textual data to enhance AI capabilities in question generation and mathematical reasoning. It encompasses two complementary studies: one focusing on advancing mathematical problem-solving through innovative data preprocessing and model enhancements, and the other exploring the generation of contextually relevant questions from images. By integrating advanced deep learning techniques, including VGG and LSTM networks, and refining mathematical reasoning models with sophisticated preprocessing and ensemble methods, this project aims to push the boundaries of AI’s ability to interpret and generate questions based on both visual and textual inputs. The research demonstrates significant improvements in model accuracy and performance, offering new avenues for integrating visual content into question generation and enhancing mathematical reasoning tasks. This work lays the groundwork for future advancements in cognitive AI by bridging the gap between different data modalities.
@@ -193,7 +193,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
   <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 auto; margin-right: 10px;">
-      <img src="/images/project2.jpg" alt="Image Title" style="border:0" width="300" height="300">
+      <img src="/images/project6.jpg" alt="Image Title" style="border:0" width="300" height="300">
     </div>
     <div style="flex: 1 1 auto;">
       This project explores advancements in three critical areas of AI: multimedia synthesis, speech system security, and natural language processing (NLP) data management. It integrates diverse approaches to enhance AI capabilities across different domains. The first area focuses on creating a multi-modal framework that combines text and image inputs to generate high-quality videos with improved artistic control, facilitating more efficient and creative multimedia production. The second area addresses the vulnerability of automatic speech recognition (ASR) systems to adversarial attacks, proposing a novel detector-reformer approach that leverages deep learning techniques to enhance system robustness and security. The third area introduces a general framework for streamlining data processing across various NLP tasks, offering a more efficient and modular approach to managing data and simplifying the integration of data processing with model training and prediction. Together, these studies contribute to the advancement of multimedia creation, speech system security, and NLP data handling, paving the way for more robust and creative AI applications.
