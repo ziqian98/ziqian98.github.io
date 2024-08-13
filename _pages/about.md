@@ -90,9 +90,9 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   > #Imbalanced Data, #Cryo-Electron Tomography, #Image Classification, #Computational Biology
 
   * Publications
-    * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul 2019.
-    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar 2022.
-    * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, 6(3), 17–22, July 2024.
+    * **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
+    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar. 2022.
+    * Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, 6(3), 17–22, Jul. 2024.
 
 
 <hr>
@@ -113,8 +113,8 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
   * Publications
     * Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
-    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov 2023.
-    * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr 2024.
+    * Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov. 2023.
+    * Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr. 2024.
 
 
 <hr>
@@ -135,6 +135,7 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 
   * Publications
     * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
+    * **Ziqian Luo**, Hua Xu, Feiyang Chen, “Utterance-Based Audio Sentiment Analysis Learned by a Parallel Combination of CNN and LSTM,” arXiv preprint, Nov. 2018.
     * Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Apr. 2019.
     * Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Jul. 2019.
 
@@ -156,9 +157,52 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   > #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
 
   * Publications
-    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun 2023.
-    * Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov 2023.
-    * **Ziqian Luo**, Feiyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jun 2024
+    * **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun. 2023.
+    * Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov. 2023.
+    * **Ziqian Luo**, Feiyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jul. 2024
+
+<hr>
+
+### Project 5: Advancing Question Generation and Mathematical Reasoning: Integrating Visual and Textual Data
+<br />
+
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project2.jpg" alt="Image Title" style="border:0" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      This project delves into the intersection of visual and textual data to enhance AI capabilities in question generation and mathematical reasoning. It encompasses two complementary studies: one focusing on advancing mathematical problem-solving through innovative data preprocessing and model enhancements, and the other exploring the generation of contextually relevant questions from images. By integrating advanced deep learning techniques, including VGG and LSTM networks, and refining mathematical reasoning models with sophisticated preprocessing and ensemble methods, this project aims to push the boundaries of AI’s ability to interpret and generate questions based on both visual and textual inputs. The research demonstrates significant improvements in model accuracy and performance, offering new avenues for integrating visual content into question generation and enhancing mathematical reasoning tasks. This work lays the groundwork for future advancements in cognitive AI by bridging the gap between different data modalities.
+    </div>
+  </div>
+
+  > #Multimodal AI Integration, #Visual Question Generation, #Enhanced Mathematical Reasoning
+
+  * Publications
+    * **Ziqian Luo**, Xueting Pan, “Advancing Mathematical Reasoning in AI: A Comprehensive Approach with the MathQA Dataset,” HAL preprint, Aug. 2024.
+    * **Ziqian Luo**, Xueting Pan, “Visual Question Generation on VQA Dataset,” HAL preprint, Aug. 2024.
+
+
+<hr>
+
+### Project 6: Transformative AI Innovations for Multimedia Creation Security Enhancement and Efficient Data Processing
+<br />
+
+  <div style="display: flex; align-items: center;">
+    <div style="flex: 0 0 auto; margin-right: 10px;">
+      <img src="/images/project2.jpg" alt="Image Title" style="border:0" width="300" height="300">
+    </div>
+    <div style="flex: 1 1 auto;">
+      This project explores advancements in three critical areas of AI: multimedia synthesis, speech system security, and natural language processing (NLP) data management. It integrates diverse approaches to enhance AI capabilities across different domains. The first area focuses on creating a multi-modal framework that combines text and image inputs to generate high-quality videos with improved artistic control, facilitating more efficient and creative multimedia production. The second area addresses the vulnerability of automatic speech recognition (ASR) systems to adversarial attacks, proposing a novel detector-reformer approach that leverages deep learning techniques to enhance system robustness and security. The third area introduces a general framework for streamlining data processing across various NLP tasks, offering a more efficient and modular approach to managing data and simplifying the integration of data processing with model training and prediction. Together, these studies contribute to the advancement of multimedia creation, speech system security, and NLP data handling, paving the way for more robust and creative AI applications.
+    </div>
+  </div>
+
+  > #Multimodal Video Synthesis, #Speech Security and Adversarial Defense, #NLP Data Processing Framework
+
+  * Publications
+    * **Ziqian Luo**, Xueting Pan, “A Multi-Modal Framework for Text-Image to Video Synthesis with Enhanced Artistic Control,” HAL preprint, Aug. 2024.
+    * **Ziqian Luo**, “Generalizing Data Processing for Natural Language Processing Tasks,” HAL preprint, Aug. 2024.
+    * **Ziqian Luo**, Xueting Pan, “Defense Against Adversarial Attacks on Speech Systems,” HAL preprint, Aug. 2024.
+    
     
     
 
