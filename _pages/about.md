@@ -94,9 +94,9 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 > #Imbalanced Data, #Cryo-Electron Tomography, #Image Classification, #Computational Biology
 
 - Publications
-  - **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy For Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, Jul. 2019.
-  - Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, Mar. 2022.
-  - Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, 6(3), 17–22, Jul. 2024.
+  - **Ziqian Luo**, Xiangrui Zeng, Min Xu, “Deep Learning-Based Strategy for Macromolecules Classification with Imbalanced Data from Cellular Electron Cryotomography,” Proc. of **IJCNN**’19, Budapest, 2019.
+  - Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Comprehensive Survey of State-of-the-Art Convolutional Neural Network Architectures and Their Applications in Image Classification," In Journal of Innovations in Applied Engineering and Technology, 1(1), 1–16, 2022.
+  - Feiyang Chen, **Ziqian Luo**, Nan Chen, Hanyang Mao, Hanlin Hu, Ying Jiang, Xueting Pan, Huitao Zhang, "Assessing Four Neural Networks on Handwritten Digit Recognition Dataset (MNIST), " In Journal of Computer Science Research, 6(3), 17–22, 2024.
 
 <hr>
 
@@ -116,9 +116,9 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 > #Vision Transformers, #Model Compression, #Edge Computing, #Resource Optimization, #Knowledge Distillation
 
 - Publications
-  - Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, Feb. 2020.
-  - Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, Nov. 2023.
-  - Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, Apr. 2024.
+  - Feiyang Chen, **Ziqian Luo**, Yanyan Xu, Dengfeng Ke, “Complementary fusion of multi-features and multi-modalities in sentiment analysis,” Proc. of the Thirty-fourth **AAAI** workshop, New York, 2020.
+  - Xueting Pan, **Ziqian Luo**, Lisang Zhou, "Navigating the Landscape of Distributed File Systems: Architectures, Implementations, and Considerations," In Journal of Innovations in Applied Engineering and Technology, 2(1), 1–12, 2023.
+  - Feiyang Chen, **Ziqian Luo**, Lisang Zhou, Xueting Pan, Ying Jiang, “Comprehensive Survey of Model Compression and Speed up for Vision Transformers,” In Journal of Information, Technology and Policy, 1(1), 1–12, 2024.
 
 <hr>
     
@@ -137,10 +137,10 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 > #Multimodal Sentiment Analysis, #Emotion Recognition, #Deep Fusion Models
 
 - Publications
-  - **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, Jan. 2019.
-  - **Ziqian Luo**, Hua Xu, Feiyang Chen, “Utterance-Based Audio Sentiment Analysis Learned by a Parallel Combination of CNN and LSTM,” arXiv preprint, Nov. 2018.
-  - Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, Apr. 2019.
-  - Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, Jul. 2019.
+  - **Ziqian Luo**, Hua Xu, Feiyang Chen, “Audio Sentiment Analysis by Heterogeneous Signal Features Learned from Utterance-Based Parallel Neural Network,” Proc. of the Thirty-third **AAAI** workshop, Honolulu, 2019.
+  - **Ziqian Luo**, Hua Xu, Feiyang Chen, “Utterance-Based Audio Sentiment Analysis Learned by a Parallel Combination of CNN and LSTM,” arXiv preprint, 2018.
+  - Feiyang Chen, **Ziqian Luo**, “Sentiment Analysis using Deep Robust Complementary Fusion of Multi-Features and Multi-Modalities,” arXiv preprint, 2019.
+  - Feiyang Chen, **Ziqian Luo**, “Learning robust heterogeneous signal features from parallel neural network for audio sentiment analysis,” arXiv preprint, 2019.
 
 <hr>
 
@@ -160,9 +160,9 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
 > #Pre-trained Models, #Knowledge Graph, #Natural Language Processing
 
 - Publications
-  - **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, Jun. 2023.
-  - Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, Nov. 2023.
-  - **Ziqian Luo**, Feiyang Chen, Xiaoyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, Jul. 2024
+  - **Ziqian Luo**, "Knowledge-guided Aspect-based Summarization," Proc. of the International Conference on Communications, Computing and Artificial Intelligence **CCCAI**, 2023.
+  - Lisang Zhou, **Ziqian Luo**, Xueting Pan, "Machine learning-based system reliability analysis with Gaussian Process Regression", In Journal of Computational Methods in Engineering Application, 3(1), 1–23, 2023.
+  - **Ziqian Luo**, Feiyang Chen, Xiaoyang Chen, Xueting Pan, "A Novel Framework for Text-Image Pair to Video Generation in Music Anime Douga (MAD) Production", In Journal of Artificial Intelligence Advances, 2024
 
 
 <hr>
@@ -182,8 +182,8 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   > #Multimodal AI Integration, #Visual Question Generation, #Enhanced Mathematical Reasoning
 
   - Publications
-    - **Ziqian Luo**, Xueting Pan, “Advancing Mathematical Reasoning in AI: A Comprehensive Approach with the MathQA Dataset,” HAL preprint, Aug. 2024.
-    - **Ziqian Luo**, Xueting Pan, “Visual Question Generation on VQA Dataset,” HAL preprint, Aug. 2024.
+    - **Ziqian Luo**, Xueting Pan, “Advancing Mathematical Reasoning in AI: A Comprehensive Approach with the MathQA Dataset,” HAL preprint, 2024.
+    - **Ziqian Luo**, Xueting Pan, “Visual Question Generation on VQA Dataset,” HAL preprint, 2024.
 
 
 <hr>
@@ -203,9 +203,9 @@ Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, 
   > #Multimodal Video Synthesis, #Speech Security and Adversarial Defense, #NLP Data Processing Framework
 
   - Publications
-    - **Ziqian Luo**, Xueting Pan, “A Multi-Modal Framework for Text-Image to Video Synthesis with Enhanced Artistic Control,” HAL preprint, Aug. 2024.
-    - **Ziqian Luo**, “Generalizing Data Processing for Natural Language Processing Tasks,” HAL preprint, Aug. 2024.
-    - **Ziqian Luo**, Xueting Pan, “Defense Against Adversarial Attacks on Speech Systems,” HAL preprint, Aug. 2024.
+    - **Ziqian Luo**, Xueting Pan, “A Multi-Modal Framework for Text-Image to Video Synthesis with Enhanced Artistic Control,” HAL preprint, 2024.
+    - **Ziqian Luo**, “Generalizing Data Processing for Natural Language Processing Tasks,” HAL preprint, 2024.
+    - **Ziqian Luo**, Xueting Pan, “Defense Against Adversarial Attacks on Speech Systems,” HAL preprint, 2024.
     
 
 
