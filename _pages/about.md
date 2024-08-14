@@ -38,7 +38,7 @@ I have been contemplating how machines can transcend their computational limitat
 
 <hr style="height: 1px; background-color: black; border: none;">
 
-Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Peerj, MDPI
+Conference/Journal reviewer: ACL, ICLR, AAAI, IJCAI, KDD, CVPR, NAACL, NeurIPS, ACMMM, Elsevier, Peerj, MDPI, etc.
 
 <div id="education" style="position: relative; top: -80px"></div>
 <h1 style="color: #0056b3;">Education</h1>
